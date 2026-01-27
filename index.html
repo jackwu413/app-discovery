@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>App Discovery - Find Hidden Gem Apps</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>App Discovery</h1>
+    <p class="subtitle">Hidden gem apps you never knew existed</p>
+  </header>
+
+  <main>
+    <div class="filters" id="filters">
+      <button class="filter-btn active" data-category="all">All</button>
+      <!-- Filter buttons generated dynamically -->
+    </div>
+
+    <div class="search-bar">
+      <input type="text" id="search" placeholder="Search apps by name, category, or keyword..." />
+    </div>
+
+    <div class="app-grid" id="app-grid">
+      <!-- Apps will be rendered here -->
+    </div>
+
+    <div class="empty-state" id="empty-state" style="display: none;">
+      <p>No apps found matching your criteria.</p>
+    </div>
+  </main>
+
+  <footer>
+    <p>Refreshed every few days with new discoveries</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

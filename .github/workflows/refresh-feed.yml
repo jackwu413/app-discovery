@@ -1,0 +1,39 @@
+name: Refresh App Feed
+
+on:
+  schedule:
+    # Run every 3 days at 6am UTC
+    - cron: '0 6 */3 * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Discover apps across all niches
+        run: node discover.js --all
+        timeout-minutes: 30
+
+      - name: Build feed
+        run: node build-feed.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add apps.json data/
+          git diff --staged --quiet || git commit -m "Refresh app feed - $(date +'%Y-%m-%d')"
+          git push
