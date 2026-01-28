@@ -49,19 +49,19 @@
   },
   {
     "id": 4,
-    "name": "Lumy - Sun Tracker for Outdoor",
-    "tagline": "Lumy is a modern sun tracker + outdoor activities planner.\n\n- Perfect lighting f...",
-    "description": "Lumy is a modern sun tracker + outdoor activities planner.\n\n- Perfect lighting for photos or videos? Done.\n- Sunrise hike or sunset walk? Easy.\n- Outdoor yoga or sunlight breaks? Covered.\n\nWhether you’re chasing golden hour*, planning your daily dose of Vitamin D, or tracking moon phases for stargaz",
+    "name": "Time Calculator - Work Hours",
+    "tagline": "Time Calculator is the ultimate all-in-one toolkit for managing time, dates, sch...",
+    "description": "Time Calculator is the ultimate all-in-one toolkit for managing time, dates, schedules, and more. Whether you’re tracking work hours, planning shifts, or converting time formats, this app has a calculator for every time-related need. Designed for professionals, freelancers, travellers, and everyday ",
     "category": "Photographers / Videographers",
     "tags": [
       "golden hour calculator",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/lumy-sun-tracker-for-outdoor/id908905093?uo=4",
+    "url": "https://apps.apple.com/us/app/time-calculator-work-hours/id565039079?uo=4",
     "icon": "📷",
-    "rating": 4.81033,
-    "reviews": 2072,
-    "developer": "Raja V"
+    "rating": 4.67577,
+    "reviews": 2523,
+    "developer": "Oval Software Oy"
   },
   {
     "id": 5,
@@ -177,6 +177,54 @@
   },
   {
     "id": 12,
+    "name": "Day Flow: AI Daily Planner",
+    "tagline": "Feeling overwhelmed by your to-dos, scattered plans, or ADHD brain fog? Day Flow...",
+    "description": "Feeling overwhelmed by your to-dos, scattered plans, or ADHD brain fog? Day Flow turns your voice into a smart, structured daily plan — no typing, no stress. Just speak your day, and your AI assistant will organize everything, suggest the best timing, and keep you focused without the chaos.\n\nDay Flo",
+    "category": "People with ADHD",
+    "tags": [
+      "adhd planner app",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/day-flow-ai-daily-planner/id6449482660?uo=4",
+    "icon": "🧠",
+    "rating": 4.55532,
+    "reviews": 2982,
+    "developer": "ZipoApps"
+  },
+  {
+    "id": 13,
+    "name": "Typhur",
+    "tagline": "At Typhur Culinary, we are harnessing the power of technology to create smart ki...",
+    "description": "At Typhur Culinary, we are harnessing the power of technology to create smart kitchen appliances to make it effortless for you to cook delicious meals from your home kitchen.\n The Typhur app provides a wide variety of well-crafted, professional and delicious recipes, allowing you to cook at ease, th",
+    "category": "Meal Preppers",
+    "tags": [
+      "batch cooking app",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/typhur/id1602333977?uo=4",
+    "icon": "🥗",
+    "rating": 4.79078,
+    "reviews": 3795,
+    "developer": "Typhur Inc."
+  },
+  {
+    "id": 14,
+    "name": "Find My Phone, Friends Tracker",
+    "tagline": "Our app is designed to give you peace of mind. Help you stay digitally connected...",
+    "description": "Our app is designed to give you peace of mind. Help you stay digitally connected with your loved ones no matter where they are.\n\nThe powerful features of our app at your fingertips:\n- Quickly connect your family members\n- Share the location with your family through our app.\n- Unlimited place alerts ",
+    "category": "Introverts",
+    "tags": [
+      "social battery tracker",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/find-my-phone-friends-tracker/id1578524280?uo=4",
+    "icon": "🔋",
+    "rating": 4.52202,
+    "reviews": 4109,
+    "developer": "Wuhan Dianyu Commerce Technology Co., Ltd."
+  },
+  {
+    "id": 15,
     "name": "Focus Friend, by Hank Green",
     "tagline": "If you interrupt your Bean by turning off the timer, they'll be really really sa...",
     "description": "If you interrupt your Bean by turning off the timer, they'll be really really sad.\n\nComplete your focus session, and this cute Bean will give you prizes to buy decorations to help furnish their room.\n\nPerfect for anyone who struggles with long sessions of concentration. Focus Friend is for students ",
@@ -190,54 +238,6 @@
     "rating": 4.72522,
     "reviews": 3581,
     "developer": "B-Tech Consulting Group LLC"
-  },
-  {
-    "id": 13,
-    "name": "Just the Recipe: Cook smarter",
-    "tagline": "Just The Recipe is your all-in-one digital cooking companion, designed to declut...",
-    "description": "Just The Recipe is your all-in-one digital cooking companion, designed to declutter recipe websites and provide only the essential instructions and ingredients. Say goodbye to needless scrolling and hello to culinary creativity across all of your devices.\n\nEXTRACT RECIPES INSTANTLY\nNo more walls of ",
-    "category": "Meal Preppers",
-    "tags": [
-      "recipe scaler",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/just-the-recipe-cook-smarter/id1598423213?uo=4",
-    "icon": "🥗",
-    "rating": 4.88358,
-    "reviews": 2886,
-    "developer": "Streamliners"
-  },
-  {
-    "id": 14,
-    "name": "Clockify Time Tracker",
-    "tagline": "Best FREE time tracking tool for agencies and freelancers.\nUnlimited team member...",
-    "description": "Best FREE time tracking tool for agencies and freelancers.\nUnlimited team members, projects & workspaces. Absolutely Free.\nChoose between logging your hours manually or automatically with single click. Keep track of what you're working on and assign your logs to relevant projects and clients. Do muc",
-    "category": "Introverts",
-    "tags": [
-      "alone time tracker",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/clockify-time-tracker/id1304431926?uo=4",
-    "icon": "🔋",
-    "rating": 4.55936,
-    "reviews": 3184,
-    "developer": "CAKE.com"
-  },
-  {
-    "id": 15,
-    "name": "Be Focused – Focus Timer",
-    "tagline": "Staying on task seems is a real challenge for our screen-bound generation. The B...",
-    "description": "Staying on task seems is a real challenge for our screen-bound generation. The Be Focused lets you get things done by breaking up individual tasks among discrete intervals, separated by short breaks. It’s a surprisingly effective way to retain motivation and focus. Create tasks, configure breaks and",
-    "category": "People with ADHD",
-    "tags": [
-      "focus timer adhd",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/be-focused-focus-timer/id973130201?uo=4",
-    "icon": "🧠",
-    "rating": 4.71354,
-    "reviews": 4280,
-    "developer": "Denys Ievenko"
   },
   {
     "id": 16,
@@ -273,19 +273,19 @@
   },
   {
     "id": 18,
-    "name": "Supershift Shift Work Calendar",
-    "tagline": "Supershift is great for keeping up with your shift working schedule and all othe...",
-    "description": "Supershift is great for keeping up with your shift working schedule and all other calendar events in between. With Supershift, scheduling is easy and quick, plus it works with the Apple Watch for a quick view. You can customize shifts with colors and icons and add as many shifts per day as you’d lik",
+    "name": "CopApp Shift Calendar Schedule",
+    "tagline": "Simple Calendar App for Repeating Shift Schedules & adding notes/highlight color...",
+    "description": "Simple Calendar App for Repeating Shift Schedules & adding notes/highlight colors for any day.   Choose from Light or Dark themes, and customize to your schedule.\n\nUpgrade for Pro Features like adding notes and reminders, highlight colors for any day, import/export schedule, share schedule, and more",
     "category": "Night Shift Workers",
     "tags": [
       "night shift schedule",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/supershift-shift-work-calendar/id1104165041?uo=4",
+    "url": "https://apps.apple.com/us/app/copapp-shift-calendar-schedule/id505736737?uo=4",
     "icon": "🌙",
-    "rating": 4.86176,
-    "reviews": 4644,
-    "developer": "Supershift GmbH"
+    "rating": 4.87866,
+    "reviews": 2827,
+    "developer": "MyProjectX, Inc."
   },
   {
     "id": 19,
@@ -305,19 +305,19 @@
   },
   {
     "id": 20,
-    "name": "Sleep Reset: CBT for Insomnia",
-    "tagline": "Start getting better sleep with the rated #1 sleep program for insomnia. Discove...",
-    "description": "Start getting better sleep with the rated #1 sleep program for insomnia. Discover why Sleep Reset has been featured in Forbes, INSIDER, TechCrunch, WSJ, CNBC, Sleep Foundation and many more.\n\nDeveloped by Stanford and Yale science researchers and recommended by over 860 doctors, Sleep Reset is the o",
+    "name": "My Shift Planner - Calendar",
+    "tagline": "MyShiftPlanner – The Ultimate Shift Work Calendar. Stay organised, save time and...",
+    "description": "MyShiftPlanner – The Ultimate Shift Work Calendar. Stay organised, save time and take control of your shift life with MyShiftPlanner, the #1 calendar app made just for shift workers.\n\nFrom nurses, drivers and retail workers to engineers, airline crew and paramedics, over 400,000 shift workers worldw",
     "category": "Night Shift Workers",
     "tags": [
-      "night worker sleep",
+      "night shift schedule",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/sleep-reset-cbt-for-insomnia/id1529321947?uo=4",
+    "url": "https://apps.apple.com/us/app/my-shift-planner-calendar/id645662133?uo=4",
     "icon": "🌙",
-    "rating": 4.78343,
-    "reviews": 3200,
-    "developer": "Sleep Reset, Inc."
+    "rating": 4.81636,
+    "reviews": 2946,
+    "developer": "MyBuzz Technologies Limited"
   },
   {
     "id": 21,
@@ -369,35 +369,35 @@
   },
   {
     "id": 24,
-    "name": "Free Stuff Finder - Save Money",
-    "tagline": "Save 50% (or more) on everyday purchases! Imagine never paying full-price again ...",
-    "description": "Save 50% (or more) on everyday purchases! Imagine never paying full-price again on things you already buy, like toilet paper, toothpaste, shampoo, groceries, diapers and shoes. Join 1 million smart & good-looking readers.\n\nFree Stuff Finder is a leading national savings and deal community. We save y",
+    "name": "Antique Identifier - Relic",
+    "tagline": "Relic – AI Antiques Identifier & Price Guide\nIdentify, value, and catalog antiqu...",
+    "description": "Relic – AI Antiques Identifier & Price Guide\nIdentify, value, and catalog antiques in seconds – right from your iPhone.\n\nRelic uses advanced computer vision to turn a single photo into a complete fact sheet, letting dealers, importers, garage-sale hunters, and side-hustlers price and document invent",
     "category": "Thrifters / Vintage Shoppers",
     "tags": [
-      "thrift store finder",
+      "vintage price guide",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/free-stuff-finder-save-money/id1438730963?uo=4",
+    "url": "https://apps.apple.com/us/app/antique-identifier-relic/id6747602157?uo=4",
     "icon": "👗",
-    "rating": 4.57993,
-    "reviews": 2821,
-    "developer": "Simple Life Media, LLC"
+    "rating": 4.66544,
+    "reviews": 3802,
+    "developer": "Sans Software, LLC"
   },
   {
     "id": 25,
-    "name": "CopApp Shift Calendar Schedule",
-    "tagline": "Simple Calendar App for Repeating Shift Schedules & adding notes/highlight color...",
-    "description": "Simple Calendar App for Repeating Shift Schedules & adding notes/highlight colors for any day.   Choose from Light or Dark themes, and customize to your schedule.\n\nUpgrade for Pro Features like adding notes and reminders, highlight colors for any day, import/export schedule, share schedule, and more",
+    "name": "Sleep Reset: CBT for Insomnia",
+    "tagline": "Start getting better sleep with the rated #1 sleep program for insomnia. Discove...",
+    "description": "Start getting better sleep with the rated #1 sleep program for insomnia. Discover why Sleep Reset has been featured in Forbes, INSIDER, TechCrunch, WSJ, CNBC, Sleep Foundation and many more.\n\nDeveloped by Stanford and Yale science researchers and recommended by over 860 doctors, Sleep Reset is the o",
     "category": "Night Shift Workers",
     "tags": [
-      "night shift schedule",
+      "night worker sleep",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/copapp-shift-calendar-schedule/id505736737?uo=4",
+    "url": "https://apps.apple.com/us/app/sleep-reset-cbt-for-insomnia/id1529321947?uo=4",
     "icon": "🌙",
-    "rating": 4.87866,
-    "reviews": 2827,
-    "developer": "MyProjectX, Inc."
+    "rating": 4.78343,
+    "reviews": 3200,
+    "developer": "Sleep Reset, Inc."
   },
   {
     "id": 26,
@@ -513,19 +513,19 @@
   },
   {
     "id": 33,
-    "name": "Antique Identifier - Relic",
-    "tagline": "Relic – AI Antiques Identifier & Price Guide\nIdentify, value, and catalog antiqu...",
-    "description": "Relic – AI Antiques Identifier & Price Guide\nIdentify, value, and catalog antiques in seconds – right from your iPhone.\n\nRelic uses advanced computer vision to turn a single photo into a complete fact sheet, letting dealers, importers, garage-sale hunters, and side-hustlers price and document invent",
+    "name": "Karrot - Buy & sell locally",
+    "tagline": "Welcome to Karrot, your new neighborhood buy-and-sell focused on exactly that: y...",
+    "description": "Welcome to Karrot, your new neighborhood buy-and-sell focused on exactly that: your neighborhood. Trusted by more than 32 million neighbors around the world, Karrot’s completely free, letting you enjoy the feels of good deals without any of the fees. List items simply in under 30 seconds, give them ",
     "category": "Thrifters / Vintage Shoppers",
     "tags": [
-      "vintage price guide",
+      "reseller inventory app",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/antique-identifier-relic/id6747602157?uo=4",
+    "url": "https://apps.apple.com/us/app/karrot-buy-sell-locally/id1018769995?uo=4",
     "icon": "👗",
-    "rating": 4.66544,
-    "reviews": 3802,
-    "developer": "Sans Software, LLC"
+    "rating": 4.72115,
+    "reviews": 4081,
+    "developer": "Danggeun Market Inc."
   },
   {
     "id": 34,
@@ -561,35 +561,35 @@
   },
   {
     "id": 36,
-    "name": "Medicine Dictionary",
-    "tagline": "Medicine Dictionary and Drug Guide by Farlex gives you free, instant access to i...",
-    "description": "Medicine Dictionary and Drug Guide by Farlex gives you free, instant access to in-depth information on 4,000+ prescription drugs and over-the-counter medications in a comprehensive drug dictionary trusted by doctors, nurses, and healthcare professionals. Includes clear, detailed entries covering:\n\nG",
+    "name": "Pill Reminder and Med Tracker",
+    "tagline": "Pill Reminder - Never forget to take your medications again with this app. It's ...",
+    "description": "Pill Reminder - Never forget to take your medications again with this app. It's easy to use and reliable, allowing you to set up any recurring reminders you need (every X hours, specific times, daily, weekly, specific days of the week, every X days, etc).\n\nIt has everything you need:\n\n• Mark Medicat",
     "category": "Medication Management",
     "tags": [
-      "drug interaction checker",
+      "pill reminder app",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/medicine-dictionary/id1021593933?uo=4",
+    "url": "https://apps.apple.com/us/app/pill-reminder-and-med-tracker/id1499766996?uo=4",
     "icon": "💉",
-    "rating": 4.65658,
-    "reviews": 926,
-    "developer": "Farlex, Inc."
+    "rating": 4.77838,
+    "reviews": 1656,
+    "developer": "Sergio Licea"
   },
   {
     "id": 37,
-    "name": "Find My Phone, Friends Tracker",
-    "tagline": "Our app is designed to give you peace of mind. Help you stay digitally connected...",
-    "description": "Our app is designed to give you peace of mind. Help you stay digitally connected with your loved ones no matter where they are.\n\nThe powerful features of our app at your fingertips:\n- Quickly connect your family members\n- Share the location with your family through our app.\n- Unlimited place alerts ",
+    "name": "ATracker Time Tracker",
+    "tagline": "Life is precious and so is your time. And keeping that in mind, ATracker is here...",
+    "description": "Life is precious and so is your time. And keeping that in mind, ATracker is here to help you achieve more of your goals, build a sustainable habit, and boost your productivity to a new height.\n\nATracker is a simple yet very powerful time tracking app and productivity tool that allows you to use it w",
     "category": "Introverts",
     "tags": [
-      "social battery tracker",
+      "alone time tracker",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/find-my-phone-friends-tracker/id1578524280?uo=4",
+    "url": "https://apps.apple.com/us/app/atracker-time-tracker/id522008611?uo=4",
     "icon": "🔋",
-    "rating": 4.52202,
-    "reviews": 4109,
-    "developer": "Wuhan Dianyu Commerce Technology Co., Ltd."
+    "rating": 4.6877,
+    "reviews": 3090,
+    "developer": "WonderApps AB"
   },
   {
     "id": 38,
@@ -641,19 +641,19 @@
   },
   {
     "id": 41,
-    "name": "atWork Hours & Pay Tracker",
-    "tagline": "Easily track your work hours, overtime, and earnings with atWork — the simple ti...",
-    "description": "Easily track your work hours, overtime, and earnings with atWork — the simple time tracker and timesheet app for freelancers, contractors, and hourly employees. See where your time goes, how much you’ve earned, and manage jobs, shifts, and clients all in one place. Create custom timesheets with all ",
+    "name": "Noteshelf 3: AI Digital Notes",
+    "tagline": "Elevate your digital note-taking experience with Noteshelf 3! Create beautiful h...",
+    "description": "Elevate your digital note-taking experience with Noteshelf 3! Create beautiful handwritten notes, annotate & markup PDFs, record audio notes and level up your note-taking with Noteshelf AI.\n\nNoteshelf 3 is the preferred note-taking app for students, teachers, professionals, artists & bullet journal ",
     "category": "Nurses / Healthcare Shift Workers",
     "tags": [
-      "nurse overtime tracker",
+      "nursing notes app",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/atwork-hours-pay-tracker/id857189697?uo=4",
+    "url": "https://apps.apple.com/us/app/noteshelf-3-ai-digital-notes/id6458735203?uo=4",
     "icon": "🏥",
-    "rating": 4.74394,
-    "reviews": 3714,
-    "developer": "Sergej Steinbach"
+    "rating": 4.63877,
+    "reviews": 4122,
+    "developer": "Fluid Touch Pte. Ltd."
   },
   {
     "id": 42,
@@ -689,19 +689,19 @@
   },
   {
     "id": 44,
-    "name": "bud - Grow Journal & Community",
-    "tagline": "Bud is a visual diary of your plants life. Growers have kept journals for years ...",
-    "description": "Bud is a visual diary of your plants life. Growers have kept journals for years to track their plants health and development. The information derived from monitoring a plants life cycle has helped increase yield and potency over time. Up until now most growers have used a variety of tools to track t",
+    "name": "Veggie Garden Planner",
+    "tagline": "The Veggie Garden Planner provides you with clearly arranged information that yo...",
+    "description": "The Veggie Garden Planner provides you with clearly arranged information that you need to quickly compose your vegetable garden patch.\n\nBefore purchase we provide a free download so you can see for yourself what value the app provides.\n \nChoose vegetables that harmonise well together. You will find ",
     "category": "Plant Parents",
     "tags": [
-      "plant journal app",
+      "garden planner app",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/bud-grow-journal-community/id1330612534?uo=4",
+    "url": "https://apps.apple.com/us/app/veggie-garden-planner/id1329927332?uo=4",
     "icon": "🌱",
-    "rating": 4.61386,
-    "reviews": 1963,
-    "developer": "NU games"
+    "rating": 4.28026,
+    "reviews": 3825,
+    "developer": "Bento Software"
   },
   {
     "id": 45,
@@ -785,19 +785,19 @@
   },
   {
     "id": 50,
-    "name": "Vendoo: A Seller’s Best Friend",
-    "tagline": "The #1 Crossposting App for Resellers\n\nMaximize your sales and streamline your r...",
-    "description": "The #1 Crossposting App for Resellers\n\nMaximize your sales and streamline your reselling business with Vendoo, the ultimate crossposting tool. List your items once, crosspost to 8 top marketplaces, and manage everything in one place. Instantly mark items as sold and keep your inventory up to date—al",
+    "name": "Vintage Film Camera: Retro Art",
+    "tagline": "Shoot retro-style videos with one tap.\nJust press the record button to turn ever...",
+    "description": "Shoot retro-style videos with one tap.\nJust press the record button to turn everyday scenes into hundred years old movies!\n\n[[ Friendly reminder ]]\nThis app simulates an analog film-reel camera.\nThere are some restrictions that don't exist in other video apps. \n\n- The maximum length of the video is ",
     "category": "Thrifters / Vintage Shoppers",
     "tags": [
-      "reseller inventory app",
+      "vintage price guide",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/vendoo-a-sellers-best-friend/id1612168777?uo=4",
+    "url": "https://apps.apple.com/us/app/vintage-film-camera-retro-art/id991464425?uo=4",
     "icon": "👗",
-    "rating": 4.55725,
-    "reviews": 2367,
-    "developer": "Vendoo Inc."
+    "rating": 4.5686,
+    "reviews": 4351,
+    "developer": "Daichi Sasaki"
   },
   {
     "id": 51,
@@ -913,19 +913,19 @@
   },
   {
     "id": 58,
-    "name": "MyRoutine: Routine Habit Goal",
-    "tagline": "Build good habits and keep you on track! Make a structured day w. Myroutine.\nMyR...",
-    "description": "Build good habits and keep you on track! Make a structured day w. Myroutine.\nMyRoutine is a daily routine & habit tracker app designed to maximize your productivity and well-being.\n\nTrack and manage your daily routines, habits, goals and moods in a single routine & habit tracker with ONE STOP SOLUTI",
+    "name": "Symmetry: AI Gym Workout Log",
+    "tagline": "Get an aesthetic body with the world’s #1 gym app! Free and ad-free.\n\n\nDesigned ...",
+    "description": "Get an aesthetic body with the world’s #1 gym app! Free and ad-free.\n\n\nDesigned by gym experts, Symmetry replaces a personal trainer by creating 100% personalized workout plans powered by AI.\n\n\nIt’s simple: Go to the gym, use Symmetry, and build more muscle than ever.\n\n\nThis is what you get when you",
     "category": "People with ADHD",
     "tags": [
-      "adhd planner app",
+      "body doubling app",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/myroutine-routine-habit-goal/id1518956326?uo=4",
+    "url": "https://apps.apple.com/us/app/symmetry-ai-gym-workout-log/id6474446718?uo=4",
     "icon": "🧠",
-    "rating": 4.79401,
-    "reviews": 3374,
-    "developer": "Minding. co., Ltd."
+    "rating": 4.80355,
+    "reviews": 1970,
+    "developer": "Symmetry Club LLC"
   },
   {
     "id": 59,
