@@ -1,99 +1,99 @@
 [
   {
     "id": 1,
-    "name": "YouDJ Mixer - Easy DJ app",
-    "tagline": "Become a DJ with the YouDJ Mixer, it is super easy! \n\nHey I am Erik, the solo pr...",
-    "description": "Become a DJ with the YouDJ Mixer, it is super easy! \n\nHey I am Erik, the solo programmer of YouDJ. I worked by passion for 15 years to build this app, that's why this app is absolutely free with no ads, for reel, you can see by yourself! \n\nWith the YouDJ mixer, you can mix like a pro with no prelimi",
-    "category": "Musicians / DJs",
+    "name": "Zulu Time",
+    "tagline": "An iPhone, Apple Watch and iPad app to see Local and Zulu time (GMT) or multiple...",
+    "description": "An iPhone, Apple Watch and iPad app to see Local and Zulu time (GMT) or multiple time zones in a single glance. Includes Widgets for both the iPhone and Apple Watch. Useful for pilots in getting weather briefings and filing flight plans, or Ham radio operators to do timezone conversions. No more wor",
+    "category": "Digital Nomads / Remote Workers",
     "tags": [
-      "DJ playlist organizer",
+      "timezone converter team",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/youdj-mixer-easy-dj-app/id1459666155?uo=4",
-    "icon": "🎵",
-    "rating": 4.82836,
-    "reviews": 4888,
-    "developer": "YOU.DJ"
+    "url": "https://apps.apple.com/us/app/zulu-time/id377289826?uo=4",
+    "icon": "🌍",
+    "rating": 4.85353,
+    "reviews": 2533,
+    "developer": "Derek Spears"
   },
   {
     "id": 2,
-    "name": "PetPage",
-    "tagline": "Smarter Pet Care at Your Fingertips\n\nPetPage makes it easy to stay connected to ...",
-    "description": "Smarter Pet Care at Your Fingertips\n\nPetPage makes it easy to stay connected to your veterinarian and manage your pet’s health anytime, anywhere. With sleek, user-friendly tools, it simplifies pet care—all from the palm of your hand.\n\nKey Features:\n- View Health Care Information: Access reminders, a",
-    "category": "Pet Owners",
+    "name": "MyRoutine: Routine Habit Goal",
+    "tagline": "Build good habits and keep you on track! Make a structured day w. Myroutine.\nMyR...",
+    "description": "Build good habits and keep you on track! Make a structured day w. Myroutine.\nMyRoutine is a daily routine & habit tracker app designed to maximize your productivity and well-being.\n\nTrack and manage your daily routines, habits, goals and moods in a single routine & habit tracker with ONE STOP SOLUTI",
+    "category": "Habit Tracking",
     "tags": [
-      "vet appointment tracker",
+      "daily routine tracker",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/petpage/id6443568264?uo=4",
-    "icon": "🐾",
-    "rating": 4.84734,
-    "reviews": 4520,
-    "developer": "AllyDVM"
+    "url": "https://apps.apple.com/us/app/myroutine-routine-habit-goal/id1518956326?uo=4",
+    "icon": "✅",
+    "rating": 4.78979,
+    "reviews": 3392,
+    "developer": "Minding. co., Ltd."
   },
   {
     "id": 3,
-    "name": "Mantis Laser Academy",
-    "tagline": "TRAIN SMARTER:\nMantis Laser Academy is a dry-fire laser training system, built a...",
-    "description": "TRAIN SMARTER:\nMantis Laser Academy is a dry-fire laser training system, built around smart targets that support automatic hit detection, scoring, and shot time in the Laser Academy app from data provided by the camera on your smartphone.\n\nTRAIN AT HOME:\nMantis Laser Academy enables you to set up a ",
-    "category": "Photographers / Videographers",
+    "name": "Rosebud: AI Journal & Diary",
+    "tagline": "Rosebud is your personal AI-powered self care companion. Rosebud is a therapist-...",
+    "description": "Rosebud is your personal AI-powered self care companion. Rosebud is a therapist-recommended journaling and self-reflection tool designed to support your personal growth and emotional wellness. Rosebud is a diary that evolves with you, learning from your entries and providing personalized prompts, fe",
+    "category": "Journaling / Bullet Journaling",
     "tags": [
-      "shot list app",
+      "daily journal prompts",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/mantis-laser-academy/id1502469247?uo=4",
-    "icon": "📷",
-    "rating": 4.74346,
-    "reviews": 3824,
-    "developer": "Mantis Tech LLC"
+    "url": "https://apps.apple.com/us/app/rosebud-ai-journal-diary/id6451135127?uo=4",
+    "icon": "📔",
+    "rating": 4.90245,
+    "reviews": 2727,
+    "developer": "Just Imagine"
   },
   {
     "id": 4,
-    "name": "iTOVi",
-    "tagline": "The iTOVi Scanner is an intuitive device that guides you in making better choice...",
-    "description": "The iTOVi Scanner is an intuitive device that guides you in making better choices to achieve your personal wellness goals. iTOVi 3.0 carries all new features, including a content library, a revitalized report analysis based on your favorite reference books, new and improved client-relationship manag",
-    "category": "Personal Trainers / Fitness Instructors",
+    "name": "Seasoned: Jobs & Community",
+    "tagline": "Book interviews instantly and chat with recruiters in real time. Simple, direct,...",
+    "description": "Book interviews instantly and chat with recruiters in real time. Simple, direct, and designed to get you hired.\n\nLooking for a job at a bar, restaurant, or anywhere else in the service industry? Get hired faster with Seasoned.\n\nSeasoned is the only community app built exclusively for the service ind",
+    "category": "Servers / Bartenders / Hospitality",
     "tags": [
-      "fitness client management",
+      "waiter tips",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/itovi/id1033183555?uo=4",
-    "icon": "💪",
-    "rating": 4.67955,
-    "reviews": 4709,
-    "developer": "Lynx Insight, LLC"
+    "url": "https://apps.apple.com/us/app/seasoned-jobs-community/id1440822962?uo=4",
+    "icon": "🍽️",
+    "rating": 4.45899,
+    "reviews": 3560,
+    "developer": "Seasoned, LLC"
   },
   {
     "id": 5,
-    "name": "Talli Baby Tracker Newborn Log",
-    "tagline": "Talli Baby Tracker is the most flexible and convenient infant feeding, diaper, a...",
-    "description": "Talli Baby Tracker is the most flexible and convenient infant feeding, diaper, and sleep tracking app. Keep track of everything parents want to know and pediatricians ask about for infants and newborns. And Talli Baby Tracker is the only tracking app you can customize for your family's exact needs. ",
-    "category": "New Parents",
+    "name": "SkinSort - Skincare Scanner",
+    "tagline": "Welcome to SkinSort, your all-in-one skincare companion and guide. Check your pr...",
+    "description": "Welcome to SkinSort, your all-in-one skincare companion and guide. Check your products. Discover new ones that'll work for your skin. Tell others what's good.\n\n◆ Scan your cosmetics ◆ \nSnap a photo of a product to see if it's good for your skin. We cut out the fluff and tell you what the ingredients",
+    "category": "Food Sensitivities / Allergies",
     "tags": [
-      "diaper tracker",
+      "ingredient checker app",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/talli-baby-tracker-newborn-log/id1383601403?uo=4",
-    "icon": "👶",
-    "rating": 4.90204,
-    "reviews": 4655,
-    "developer": "BabyLogger, LLC"
+    "url": "https://apps.apple.com/us/app/skinsort-skincare-scanner/id6478040418?uo=4",
+    "icon": "🥜",
+    "rating": 4.72916,
+    "reviews": 4246,
+    "developer": "SkinSort"
   },
   {
     "id": 6,
-    "name": "atWork Hours & Pay Tracker",
-    "tagline": "Easily track your work hours, overtime, and earnings with atWork — the simple ti...",
-    "description": "Easily track your work hours, overtime, and earnings with atWork — the simple time tracker and timesheet app for freelancers, contractors, and hourly employees. See where your time goes, how much you’ve earned, and manage jobs, shifts, and clients all in one place. Create custom timesheets with all ",
-    "category": "Freelancers / Gig Workers",
+    "name": "Fit Profile-GE branded scales",
+    "tagline": "You use this app when you use a Fit Plus Body Fat Smart Scale. This free app tra...",
+    "description": "You use this app when you use a Fit Plus Body Fat Smart Scale. This free app tracks your body weight, body fat, BMI, and other body composition data. It provides the information and inspiration to track your weight loss progress and to keep your fitter.\n\nFit Profile app and Smart Scale make it easie",
+    "category": "Truck Drivers / Delivery",
     "tags": [
-      "freelance time tracking",
+      "weigh station app",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/atwork-hours-pay-tracker/id857189697?uo=4",
-    "icon": "💼",
-    "rating": 4.74579,
-    "reviews": 3741,
-    "developer": "Sergej Steinbach"
+    "url": "https://apps.apple.com/us/app/fit-profile-ge-branded-scales/id1622951301?uo=4",
+    "icon": "🚚",
+    "rating": 4.88,
+    "reviews": 2925,
+    "developer": "Global eFit Incorporated"
   },
   {
     "id": 7,
@@ -107,172 +107,12 @@
     ],
     "url": "https://apps.apple.com/us/app/due-reminders-timers/id390017969?uo=4",
     "icon": "💉",
-    "rating": 4.6737,
-    "reviews": 2749,
+    "rating": 4.67285,
+    "reviews": 2748,
     "developer": "Due Apps LLP"
   },
   {
     "id": 8,
-    "name": "Tempo - Metronome with Setlist",
-    "tagline": "Tempo is the bestselling and most accurate metronome on the App Store. Featured ...",
-    "description": "Tempo is the bestselling and most accurate metronome on the App Store. Featured as \"New and Noteworthy\" and \"Staff Favorite\" by Apple on the main iTunes landing page. If you'll like to try Tempo out before purchasing, download Tempo Lite for free now.\n\nEver since its release, Tempo has been consiste",
-    "category": "Musicians / DJs",
-    "tags": [
-      "gig tracker musician",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/tempo-metronome-with-setlist/id304731501?uo=4",
-    "icon": "🎵",
-    "rating": 4.8044,
-    "reviews": 4586,
-    "developer": "Frozen Ape Pte. Ltd."
-  },
-  {
-    "id": 9,
-    "name": "Best Brew Guide: Filtru Coffee",
-    "tagline": "Coffee is more than just a way to wake up in the morning, it's a way of life. Wi...",
-    "description": "Coffee is more than just a way to wake up in the morning, it's a way of life. With Filtru, you'll make the perfect cup each and every time and learn as you go.\n\nFiltru is your go-to app for learning and replicating the best way to make your favorite coffee. Gone are the days of pouring water over co",
-    "category": "Meal Preppers",
-    "tags": [
-      "recipe scaler",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/best-brew-guide-filtru-coffee/id1150921819?uo=4",
-    "icon": "🥗",
-    "rating": 4.78163,
-    "reviews": 3691,
-    "developer": "Spirograph Limited"
-  },
-  {
-    "id": 10,
-    "name": "everyday - Habit Tracker",
-    "tagline": "\"Every day, it gets a little easier. But you gotta do it every day, that's the h...",
-    "description": "\"Every day, it gets a little easier. But you gotta do it every day, that's the hard part.\"\n\nSimple and beautiful habit tracker: Form new habits to achieve your goals\n\nDO IT EVERY DAY: Get disciplined. Doing it every day helps you form new habits, and habits are what make you reach your goals\n\nDON'T ",
-    "category": "Habit Tracking",
-    "tags": [
-      "habit tracker simple",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/everyday-habit-tracker/id1394150432?uo=4",
-    "icon": "✅",
-    "rating": 4.70826,
-    "reviews": 4360,
-    "developer": "Everyday Growth S.L."
-  },
-  {
-    "id": 11,
-    "name": "SchoolPass",
-    "tagline": "SchoolPass is a K-12 platform that helps schools manage campus movement, attenda...",
-    "description": "SchoolPass is a K-12 platform that helps schools manage campus movement, attendance, and campus wellness, in the cloud. \n\nSchools can consolidate and modernize the arrival, screening, and departure of students, visitors, and staff in one place, while enabling staff to more quickly and accurately acc",
-    "category": "Teachers / Tutors",
-    "tags": [
-      "student behavior tracker",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/schoolpass/id1522645864?uo=4",
-    "icon": "📚",
-    "rating": 4.6918,
-    "reviews": 4416,
-    "developer": "Raptor Technologies, LLC"
-  },
-  {
-    "id": 12,
-    "name": "Pet Zero",
-    "tagline": "Pet Zero is a good help for your communication with the pets.\nPet Zero now suppo...",
-    "description": "Pet Zero is a good help for your communication with the pets.\nPet Zero now supports 2 knids of pet feeders. They can easily help you timed feed, manually feed remotely, and notify you when there is lack of foods.\n\n-Smart pet feeder\nSupport monitoring real-time video captured by the camera on the fee",
-    "category": "Pet Owners",
-    "tags": [
-      "pet feeding schedule",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/pet-zero/id1507536028?uo=4",
-    "icon": "🐾",
-    "rating": 4.8246,
-    "reviews": 3472,
-    "developer": "泽明 任"
-  },
-  {
-    "id": 13,
-    "name": "MFIT Personal",
-    "tagline": "MFIT Personal is the best app for personal trainers\n\nEverything you need in one ...",
-    "description": "MFIT Personal is the best app for personal trainers\n\nEverything you need in one place: anamnesis, physical evaluation, workout prescription, client feedback, and payment collection!\n\nWORK FROM ANYWHERE\nPrescribe workouts wherever you prefer, setting dates, loads, intervals, and number of sets.\n\nMORE",
-    "category": "Personal Trainers / Fitness Instructors",
-    "tags": [
-      "personal trainer client app",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/mfit-personal/id1283273690?uo=4",
-    "icon": "💪",
-    "rating": 4.91267,
-    "reviews": 3985,
-    "developer": "MFIT PERSONAL APP LTDA"
-  },
-  {
-    "id": 14,
-    "name": "Napper: Baby Sleep Tracker",
-    "tagline": "Napper is the game-changing, award-winning app that uses data, science, and a li...",
-    "description": "Napper is the game-changing, award-winning app that uses data, science, and a little bit of algorithmic magic to predict your baby’s naps and bedtime - with almost uncanny accuracy.\n\nOriginally built by a dad on parental leave (still with us btw!) for him and his not-so-sleepy baby girl, Napper has ",
-    "category": "New Parents",
-    "tags": [
-      "baby sleep log",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/napper-baby-sleep-tracker/id1491340863?uo=4",
-    "icon": "👶",
-    "rating": 4.8811,
-    "reviews": 3600,
-    "developer": "Napper AB"
-  },
-  {
-    "id": 15,
-    "name": "Zest: Meal Planner & Helper",
-    "tagline": "Tired of cooking the same 3 meals on repeat? Zest integrates a mind-blowing cook...",
-    "description": "Tired of cooking the same 3 meals on repeat? Zest integrates a mind-blowing cooking education into your routine. Learn to cook with us through step-by-step explanations of foundational cooking concepts in fewer than 10 minutes and dishes that bring the concept to life. Our recipes are created by two",
-    "category": "Meal Preppers",
-    "tags": [
-      "batch cooking app",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/zest-meal-planner-helper/id1595938390?uo=4",
-    "icon": "🥗",
-    "rating": 4.6862,
-    "reviews": 3260,
-    "developer": "Culi, Inc."
-  },
-  {
-    "id": 16,
-    "name": "HealthTap Primary Care Doctors",
-    "tagline": "HealthTap is a telehealth app where you choose & keep one primary care doctor yo...",
-    "description": "HealthTap is a telehealth app where you choose & keep one primary care doctor you love to get ongoing care — affordably with or without great insurance or benefits!\n\nGet personalized, quality medical advice without an expensive and inconvenient trip to a doctor’s office. Meet with your favorite new ",
-    "category": "People with Chronic Illness",
-    "tags": [
-      "doctor visit notes",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/healthtap-primary-care-doctors/id466079030?uo=4",
-    "icon": "💊",
-    "rating": 4.69712,
-    "reviews": 4781,
-    "developer": "HealthTap"
-  },
-  {
-    "id": 17,
-    "name": "Just the Recipe: Cook smarter",
-    "tagline": "Just The Recipe is your all-in-one digital cooking companion, designed to declut...",
-    "description": "Just The Recipe is your all-in-one digital cooking companion, designed to declutter recipe websites and provide only the essential instructions and ingredients. Say goodbye to needless scrolling and hello to culinary creativity across all of your devices.\n\nEXTRACT RECIPES INSTANTLY\nNo more walls of ",
-    "category": "Home Brewers / Cocktail Enthusiasts",
-    "tags": [
-      "homebrew recipe app",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/just-the-recipe-cook-smarter/id1598423213?uo=4",
-    "icon": "🍺",
-    "rating": 4.88364,
-    "reviews": 3008,
-    "developer": "Streamliners"
-  },
-  {
-    "id": 18,
     "name": "myHomework Student Planner",
     "tagline": "What makes myHomework the best student planner?\n\n* Beauty, Simplicity, and Relia...",
     "description": "What makes myHomework the best student planner?\n\n* Beauty, Simplicity, and Reliability - myHomework has a gorgeous appearance and simple interface making it easy for anyone to use.  Our apps fill their role as a planner without network connectivity.\n\n* Amazing Anywhere - With highly rated cross-plat",
@@ -288,311 +128,23 @@
     "developer": "Rodrigo Neri"
   },
   {
-    "id": 19,
-    "name": "Baby Tracker!",
-    "tagline": "Helps to identify the patterns and behavior of your little one. Helps track all ...",
-    "description": "Helps to identify the patterns and behavior of your little one. Helps track all the things: feeding, sleep, diapers, pictures, measurements, medicine and more in one place. Extremely simple to use and keeps track of everything you need.\n\nBaby Tracker:\n- breastfeeding and baby feeding tracker\n- baby ",
-    "category": "New Parents",
+    "id": 9,
+    "name": "Antique Identifier - Relic",
+    "tagline": "Relic – AI Antiques Identifier & Price Guide\nIdentify, value, and catalog antiqu...",
+    "description": "Relic – AI Antiques Identifier & Price Guide\nIdentify, value, and catalog antiques in seconds – right from your iPhone.\n\nRelic uses advanced computer vision to turn a single photo into a complete fact sheet, letting dealers, importers, garage-sale hunters, and side-hustlers price and document invent",
+    "category": "Thrifters / Vintage Shoppers",
     "tags": [
-      "baby tracker feeding",
+      "vintage price guide",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/baby-tracker/id1444238371?uo=4",
-    "icon": "👶",
-    "rating": 4.79891,
-    "reviews": 4963,
-    "developer": "Amila Tech Limited"
+    "url": "https://apps.apple.com/us/app/antique-identifier-relic/id6747602157?uo=4",
+    "icon": "👗",
+    "rating": 4.68817,
+    "reviews": 4759,
+    "developer": "Sans Software, LLC"
   },
   {
-    "id": 20,
-    "name": "Caryfy",
-    "tagline": "Care Providers (Care Workers)\n\nThe one mobile app for all professional care work...",
-    "description": "Care Providers (Care Workers)\n\nThe one mobile app for all professional care workers offers them opportunities for creating their profile, completing timesheets and for communicating with their contacts. The app is compliant with electronic visit verification with digital signatures as well as voice ",
-    "category": "Caregivers for Elderly",
-    "tags": [
-      "elderly care tracker",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/caryfy/id1539855021?uo=4",
-    "icon": "🤝",
-    "rating": 4.78117,
-    "reviews": 4492,
-    "developer": "CaryFy"
-  },
-  {
-    "id": 21,
-    "name": "Pocket Pharmacist",
-    "tagline": "\"Pocket Pharmacist feels like you're talking to a live pharmacist versus reading...",
-    "description": "\"Pocket Pharmacist feels like you're talking to a live pharmacist versus reading through an encyclopedia!\"\n\nDownload now for a free trial.  Not impressed?  Simply unsubscribe and walk away without paying a dime (during the 1-week free trial period).\n\nDRUG INFORMATION\n∙ Drug summaries are curated and",
-    "category": "Medication Management",
-    "tags": [
-      "drug interaction checker",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/pocket-pharmacist/id387365379?uo=4",
-    "icon": "💉",
-    "rating": 4.71462,
-    "reviews": 3816,
-    "developer": "Danike, Inc."
-  },
-  {
-    "id": 22,
-    "name": "Orca: Formerly HappyFeed Diary",
-    "tagline": "Orca (formerly Happyfeed) is a daily photo journal and video diary focused on gr...",
-    "description": "Orca (formerly Happyfeed) is a daily photo journal and video diary focused on gratitude and positive memories. Reflect on good things, as a gratitude journal, to boost your happiness and help you focus on the brighter side of life. Keep it private or join a group to share memories with friends and f",
-    "category": "Journaling / Bullet Journaling",
-    "tags": [
-      "gratitude journal app",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/orca-formerly-happyfeed-diary/id707073943?uo=4",
-    "icon": "📔",
-    "rating": 4.8396,
-    "reviews": 3909,
-    "developer": "HappyFeed Inc."
-  },
-  {
-    "id": 23,
-    "name": "Noteshelf 3: AI Digital Notes",
-    "tagline": "Elevate your digital note-taking experience with Noteshelf 3! Create beautiful h...",
-    "description": "Elevate your digital note-taking experience with Noteshelf 3! Create beautiful handwritten notes, annotate & markup PDFs, record audio notes and level up your note-taking with Noteshelf AI.\n\nNoteshelf 3 is the preferred note-taking app for students, teachers, professionals, artists & bullet journal ",
-    "category": "Nurses / Healthcare Shift Workers",
-    "tags": [
-      "nursing notes app",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/noteshelf-3-ai-digital-notes/id6458735203?uo=4",
-    "icon": "🏥",
-    "rating": 4.63209,
-    "reviews": 4599,
-    "developer": "Fluid Touch Pte. Ltd."
-  },
-  {
-    "id": 24,
-    "name": "365 Gratitude Journal—SelfCare",
-    "tagline": "Feeling overwhelmed by stress and anxiety? Discover joy and calm with a science-...",
-    "description": "Feeling overwhelmed by stress and anxiety? Discover joy and calm with a science-based gratitude journal designed for your self-growth. This is more than a diary—it's your path to a positive mindset in just 5 minutes a day.\n\n\"It's not really an 'app'. It's a family of gratitude warriors that want to ",
-    "category": "Journaling / Bullet Journaling",
-    "tags": [
-      "daily journal prompts",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/365-gratitude-journal-selfcare/id1072397377?uo=4",
-    "icon": "📔",
-    "rating": 4.76253,
-    "reviews": 4451,
-    "developer": "UofHappy, LLC"
-  },
-  {
-    "id": 25,
-    "name": "Buildertrend",
-    "tagline": "Say goodbye to constant chaos. Align your team. Drive growth. Impress clients. W...",
-    "description": "Say goodbye to constant chaos. Align your team. Drive growth. Impress clients. With Buildertrend construction software, you can work simpler and run your business - without letting it run you. Our platform helps construction professionals build more by reducing delays, eliminating communication erro",
-    "category": "Freelancers / Gig Workers",
-    "tags": [
-      "contractor mileage",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/buildertrend/id504370616?uo=4",
-    "icon": "💼",
-    "rating": 4.50126,
-    "reviews": 4774,
-    "developer": "Buildertrend Solutions, Inc."
-  },
-  {
-    "id": 26,
-    "name": "Calculator: No Ads / Ad-Free",
-    "tagline": "Looking for a Calculator app with NO ADS and COMPLETE PRIVACY?\nHere’s why ours s...",
-    "description": "Looking for a Calculator app with NO ADS and COMPLETE PRIVACY?\nHere’s why ours stands out:\n\n• SCIENTIFIC CALCULATOR: Integrated scientific calculator with trigonometry, logarithms, exponents, roots, and more. \n \n• COMPREHENSIVE CALCULATOR: Easily manage Budgets, Mortgages, Loans, Compound Interest, ",
-    "category": "Roommates / Shared Living",
-    "tags": [
-      "rent split calculator",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/calculator-no-ads-ad-free/id1548766499?uo=4",
-    "icon": "🏠",
-    "rating": 4.70401,
-    "reviews": 4392,
-    "developer": "Gary Cox"
-  },
-  {
-    "id": 27,
-    "name": "Tip Calculator % Tap Tip",
-    "tagline": "Hmmm so I have a bill of $259.65 including tax, so how much should I tip?\n\nTippi...",
-    "description": "Hmmm so I have a bill of $259.65 including tax, so how much should I tip?\n\nTipping used to be simple. Now with a truck load of taxes, service charges, per person splitting and what not, a simple restaurant etiquette has turned into a full on battle of the brains.\n\nLuckily, there’s Tap Tip to save yo",
-    "category": "Servers / Bartenders / Hospitality",
-    "tags": [
-      "tip calculator server",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/tip-calculator-tap-tip/id695431266?uo=4",
-    "icon": "🍽️",
-    "rating": 4.74695,
-    "reviews": 2466,
-    "developer": "Tardent Apps Inc."
-  },
-  {
-    "id": 28,
-    "name": "Zulu Time",
-    "tagline": "An iPhone, Apple Watch and iPad app to see Local and Zulu time (GMT) or multiple...",
-    "description": "An iPhone, Apple Watch and iPad app to see Local and Zulu time (GMT) or multiple time zones in a single glance. Includes Widgets for both the iPhone and Apple Watch. Useful for pilots in getting weather briefings and filing flight plans, or Ham radio operators to do timezone conversions. No more wor",
-    "category": "Digital Nomads / Remote Workers",
-    "tags": [
-      "timezone converter team",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/zulu-time/id377289826?uo=4",
-    "icon": "🌍",
-    "rating": 4.85432,
-    "reviews": 2533,
-    "developer": "Derek Spears"
-  },
-  {
-    "id": 29,
-    "name": "Receipt Lens - Expense Tracker",
-    "tagline": "Track your receipts and manage expenses the easiest way with Receipt Lens! Get i...",
-    "description": "Track your receipts and manage expenses the easiest way with Receipt Lens! Get instant receipt reading and expense report with just one tap. \nTry Receipt Lens NOW - your ultimate time-saver and virtual accountant at your fingertips.\n\n -Just snap a picture of a receipt and Receipt Lens automatically ",
-    "category": "Freelancers / Gig Workers",
-    "tags": [
-      "self employed expense",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/receipt-lens-expense-tracker/id1424280764?uo=4",
-    "icon": "💼",
-    "rating": 4.72466,
-    "reviews": 4213,
-    "developer": "Glority Global Group Ltd."
-  },
-  {
-    "id": 30,
-    "name": "Bluon HVAC",
-    "tagline": "Bluon helps you finish jobs at warp speed. Search our database of 500,000 HVAC m...",
-    "description": "Bluon helps you finish jobs at warp speed. Search our database of 500,000 HVAC models for manuals and part lists. Get detailed troubleshooting instructions from MasterMecahanic, our A.I. built for techs, or use our Live Support line to get help from our HVAC veterans.\n\nBluon is the largest HVAC comm",
-    "category": "Home Maintenance",
-    "tags": [
-      "hvac filter reminder",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/bluon-hvac/id1357521880?uo=4",
-    "icon": "🔧",
-    "rating": 4.77316,
-    "reviews": 4448,
-    "developer": "Bluon, Inc."
-  },
-  {
-    "id": 31,
-    "name": "Cara Care: IBS, FODMAP Tracker",
-    "tagline": "Cara Care takes the mystery out of your digestion. It’s the easiest way to manag...",
-    "description": "Cara Care takes the mystery out of your digestion. It’s the easiest way to manage and track gut issues like IBS, IBD, GERD, Celiac, dyspepsia, or food intolerances.\n\nTrack your poop, stress, food, pain, and other symptoms (e.g. from IBS) with just a few taps. \n\nThe app shows you what your food, symp",
-    "category": "People with Chronic Illness",
-    "tags": [
-      "flare tracker",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/cara-care-ibs-fodmap-tracker/id1133687886?uo=4",
-    "icon": "💊",
-    "rating": 4.78388,
-    "reviews": 4567,
-    "developer": "HiDoc Technologies GmbH"
-  },
-  {
-    "id": 32,
-    "name": "Pill Reminder and Med Tracker",
-    "tagline": "Pill Reminder - Never forget to take your medications again with this app. It's ...",
-    "description": "Pill Reminder - Never forget to take your medications again with this app. It's easy to use and reliable, allowing you to set up any recurring reminders you need (every X hours, specific times, daily, weekly, specific days of the week, every X days, etc).\n\nIt has everything you need:\n\n• Mark Medicat",
-    "category": "Medication Management",
-    "tags": [
-      "pill reminder app",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/pill-reminder-and-med-tracker/id1499766996?uo=4",
-    "icon": "💉",
-    "rating": 4.77864,
-    "reviews": 1685,
-    "developer": "Sergio Licea"
-  },
-  {
-    "id": 33,
-    "name": "Andante Music Practice Journal",
-    "tagline": "Reach your musical goals with Andante, the practice companion app for musicians....",
-    "description": "Reach your musical goals with Andante, the practice companion app for musicians. By combining essential practice tools like metronome, session tracking, as well as motivation features like practice streaks, Andante helps you stay organized and motivated. Made by a musician for musicians.\n\n** Log you",
-    "category": "Musicians / DJs",
-    "tags": [
-      "music practice tracker",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/andante-music-practice-journal/id1530262372?uo=4",
-    "icon": "🎵",
-    "rating": 4.85956,
-    "reviews": 2720,
-    "developer": "Miles Vinson"
-  },
-  {
-    "id": 34,
-    "name": "Trash Panda - Food Scanner",
-    "tagline": "Trash Panda is a food scanner app that helps you easily uncover hidden additives...",
-    "description": "Trash Panda is a food scanner app that helps you easily uncover hidden additives and harmful ingredients in your food and find healthier alternatives.\n\nYou can transform your family’s health with Trash Panda’s food scanner by taking control of what goes in your body - avoiding harmful additives and ",
-    "category": "Food Sensitivities / Allergies",
-    "tags": [
-      "allergy food scanner",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/trash-panda-food-scanner/id1539759995?uo=4",
-    "icon": "🥜",
-    "rating": 4.80802,
-    "reviews": 2943,
-    "developer": "Sly Trunk"
-  },
-  {
-    "id": 35,
-    "name": "Forms for Google Forms & Quiz",
-    "tagline": "Introducing Form for Google Forms! Effortlessly Craft Custom Forms on the Go! Cr...",
-    "description": "Introducing Form for Google Forms! Effortlessly Craft Custom Forms on the Go! Create and modify Google Forms directly from your iPhone or iPad with Forms for Google Forms. Tailor personalized forms, surveys, quizzes, and more with ease using our robust app.\n\nUnlock the Power of Forms:\n- Swiftly crea",
-    "category": "Photographers / Videographers",
-    "tags": [
-      "model release form",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/forms-for-google-forms-quiz/id1528832508?uo=4",
-    "icon": "📷",
-    "rating": 4.728,
-    "reviews": 4864,
-    "developer": "Niharika Jindal"
-  },
-  {
-    "id": 36,
-    "name": "Daily Habit & Routine Tracker",
-    "tagline": "Creating healthy habits is easy! Improve yourself with the help of a habit track...",
-    "description": "Creating healthy habits is easy! Improve yourself with the help of a habit tracker.\n\nDo you often plan ambitious goals, only to give up later? Have you tried repeatedly to introduce healthy habits into your life, but stop working on yourself after only a few days? Now, you can change your life for t",
-    "category": "Habit Tracking",
-    "tags": [
-      "daily routine tracker",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/daily-habit-routine-tracker/id1477345602?uo=4",
-    "icon": "✅",
-    "rating": 4.64092,
-    "reviews": 4687,
-    "developer": "CREATIVE TECHNOLOGIES LLC"
-  },
-  {
-    "id": 37,
-    "name": "Pill Reminder Medication Alarm",
-    "tagline": "Download today and enjoy the peace of mind that comes with never missing a dose ...",
-    "description": "Download today and enjoy the peace of mind that comes with never missing a dose again!\n\nWith our user-friendly interface, you can easily manage all of your medications in one place, ensuring that you never miss a dose again. Our app is perfect for anyone who struggles to take their medication on tim",
-    "category": "Caregivers for Elderly",
-    "tags": [
-      "medication reminder elderly",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/pill-reminder-medication-alarm/id863327251?uo=4",
-    "icon": "🤝",
-    "rating": 4.58197,
-    "reviews": 4337,
-    "developer": "Aplicativos Legais"
-  },
-  {
-    "id": 38,
+    "id": 10,
     "name": "Oznr",
     "tagline": "Oznr lets you shop the world's best craft breweries, distilleries, meaderies, an...",
     "description": "Oznr lets you shop the world's best craft breweries, distilleries, meaderies, and bottle shops. By downloading Oznr, you can order limited release cans & bottles for pick up or shipment (where legal), discover world-class events & festivals, and purchase memberships to bottle societies & mug clubs. ",
@@ -603,316 +155,60 @@
     ],
     "url": "https://apps.apple.com/us/app/oznr/id1478594846?uo=4",
     "icon": "🍺",
-    "rating": 4.78404,
-    "reviews": 3107,
+    "rating": 4.7831,
+    "reviews": 3112,
     "developer": "Home Brewed Tech LLC"
   },
   {
-    "id": 39,
-    "name": "MaintainX Work Orders",
-    "tagline": "Get the best CMMS software for field technicians and maintenance managers.\n\nMain...",
-    "description": "Get the best CMMS software for field technicians and maintenance managers.\n\nMaintainX is built for field technicians and maintenance managers who need a powerful, easy-to-use tool—whether you’re using a phone, tablet, or desktop.\n\nHere’s what you and your team will get from MaintainX:\n\n- Efficient m",
-    "category": "Home Maintenance",
+    "id": 11,
+    "name": "Daily Planner, Schedule: Brite",
+    "tagline": "Brite Daily Planner: Your Ultimate Companion for a Balanced and Productive Life\n...",
+    "description": "Brite Daily Planner: Your Ultimate Companion for a Balanced and Productive Life\n\nDiscover the all-in-one solution that helps you tackle your daily tasks, stay organized, and achieve your goals with ease. With Brite Daily Planner, we've combined the essential features all in one user-friendly app, al",
+    "category": "People with ADHD",
     "tags": [
-      "home maintenance schedule",
+      "adhd task manager",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/maintainx-work-orders/id1437854484?uo=4",
-    "icon": "🔧",
-    "rating": 4.89294,
-    "reviews": 4390,
-    "developer": "MAINTAINX INC."
+    "url": "https://apps.apple.com/us/app/daily-planner-schedule-brite/id1519999420?uo=4",
+    "icon": "🧠",
+    "rating": 4.5682,
+    "reviews": 3548,
+    "developer": "Brite Technologies"
   },
   {
-    "id": 40,
-    "name": "ESHYFT - Per Diem Nursing",
-    "tagline": "CNAs, LPNs, and RNs across the U.S. use ESHYFT to find and work shifts at long t...",
-    "description": "CNAs, LPNs, and RNs across the U.S. use ESHYFT to find and work shifts at long term care facilities.\n\nAre you a CNA, LPN, or RN looking for a flexible work schedule? Maintain work-life balance by signing up for ESHYFT! ESHYFT is an easy way to pick up per diem nursing shifts and connect to local fac",
-    "category": "Nurses / Healthcare Shift Workers",
-    "tags": [
-      "nurse schedule app",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/eshyft-per-diem-nursing/id1341456641?uo=4",
-    "icon": "🏥",
-    "rating": 4.7355,
-    "reviews": 3947,
-    "developer": "eShyft"
-  },
-  {
-    "id": 41,
-    "name": "GrowPal: Health & Fitness",
-    "tagline": "# Editor's Choice by App Store\n# Featured in App Store Across 173 Countries & Re...",
-    "description": "# Editor's Choice by App Store\n# Featured in App Store Across 173 Countries & Regions\n# Over 200,000 Five-Star Reviews Globally\n# Great Apps Updated for iOS 26 & watchOS 26\n\nGrowPal is your Apple Watch best friend, helping you easily track your steps, sleep, HRV stress, workouts, hydration, and sunl",
-    "category": "Personal Trainers / Fitness Instructors",
-    "tags": [
-      "fitness client management",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/growpal-health-fitness/id1560604814?uo=4",
-    "icon": "💪",
-    "rating": 4.75112,
-    "reviews": 3122,
-    "developer": "Floating Island Technology Co., Ltd."
-  },
-  {
-    "id": 42,
-    "name": "Water Tracker - Drink Reminder",
-    "tagline": "A highly effective app for tracking your water intake, featuring random reminder...",
-    "description": "A highly effective app for tracking your water intake, featuring random reminders throughout the day. \n\n=== Features:\n- Track water in varying glass sizes.\n- Random reminders within your specified time interval.\n- Full log of your consumption history.\n- Easily back-enter data for another day.\n\nIf yo",
-    "category": "Caregivers for Elderly",
-    "tags": [
-      "elderly care tracker",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/water-tracker-drink-reminder/id1404193468?uo=4",
-    "icon": "🤝",
-    "rating": 4.73805,
-    "reviews": 3367,
-    "developer": "Shenzhen Xinchuang Information Technology Co., Ltd."
-  },
-  {
-    "id": 43,
-    "name": "10BII Calc HD",
-    "tagline": "10BII Calc HD is a business calculator featuring over 100 built-in functions for...",
-    "description": "10BII Calc HD is a business calculator featuring over 100 built-in functions for business, finance, mathematics and statistics. Easily calculate loan payments, interest rates, amortization, discounted cash-flow analyses, TVM (loans, savings, and leasing), bonds and depreciation using a simplified al",
-    "category": "Roommates / Shared Living",
-    "tags": [
-      "rent split calculator",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/10bii-calc-hd/id382452060?uo=4",
-    "icon": "🏠",
-    "rating": 4.92598,
-    "reviews": 3634,
-    "developer": "Ernest Brock"
-  },
-  {
-    "id": 44,
-    "name": "Dawn Patrol Surf, Wave Tracker",
-    "tagline": "Your Apple Watch is a Surf Watch with Dawn Patrol.\nThe best surf tracker for App...",
-    "description": "Your Apple Watch is a Surf Watch with Dawn Patrol.\nThe best surf tracker for Apple Watch, with todays Surfline forecast(*) of your favourite beaches right there on your wrist and glancable widgets immediately on your phone.\nOur basic features are FREE for all surfers and if you subscribe to Soul Sur",
-    "category": "People with Chronic Illness",
-    "tags": [
-      "flare tracker",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/dawn-patrol-surf-wave-tracker/id1161014179?uo=4",
-    "icon": "💊",
-    "rating": 4.65717,
-    "reviews": 4037,
-    "developer": "Dawn Patrol Surf Tracking"
-  },
-  {
-    "id": 45,
-    "name": "Mila Air",
-    "tagline": "Say hello to Mila, the refreshingly thoughtful air purifier. Mila is the first s...",
-    "description": "Say hello to Mila, the refreshingly thoughtful air purifier. Mila is the first smart air purifier of its kind that makes controlling your home’s air quality as intuitive as setting your thermostat. With Mila, you’ll discover a best-in-class HEPA air purifier that’s smart, simple, quiet, and affordab",
-    "category": "Home Maintenance",
-    "tags": [
-      "hvac filter reminder",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/mila-air/id1520776049?uo=4",
-    "icon": "🔧",
-    "rating": 4.54818,
-    "reviews": 4628,
-    "developer": "Mila USA, Inc."
-  },
-  {
-    "id": 46,
-    "name": "SkinSort - Skincare Scanner",
-    "tagline": "Welcome to SkinSort, your all-in-one skincare companion and guide. Check your pr...",
-    "description": "Welcome to SkinSort, your all-in-one skincare companion and guide. Check your products. Discover new ones that'll work for your skin. Tell others what's good.\n\n◆ Scan your cosmetics ◆ \nSnap a photo of a product to see if it's good for your skin. We cut out the fluff and tell you what the ingredients",
-    "category": "Food Sensitivities / Allergies",
-    "tags": [
-      "ingredient checker app",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/skinsort-skincare-scanner/id6478040418?uo=4",
-    "icon": "🥜",
-    "rating": 4.72855,
-    "reviews": 4185,
-    "developer": "SkinSort"
-  },
-  {
-    "id": 47,
-    "name": "School Assistant – Planner",
-    "tagline": "School Assistant by Sun Apps is a simple but powerful school planner app. It all...",
-    "description": "School Assistant by Sun Apps is a simple but powerful school planner app. It allows you to quickly and easily keep track of homework, tests, and your schedule, see and save Google Classroom assignments, quickly access saved websites, and more.\n\nFirst, as a student myself, I know how hard it can be t",
-    "category": "Teachers / Tutors",
-    "tags": [
-      "lesson planner teacher",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/school-assistant-planner/id1465687472?uo=4",
-    "icon": "📚",
-    "rating": 4.7585,
-    "reviews": 4236,
-    "developer": "Sun Apps, LLC"
-  },
-  {
-    "id": 48,
-    "name": "Deglaze: Cooking, Simplified",
-    "tagline": "Deglaze is built for people that love to cook. It simplifies your life by making...",
-    "description": "Deglaze is built for people that love to cook. It simplifies your life by making it easy to get all of your recipes in one place and to create organized grocery lists in seconds.\n\nA fully featured free version is included, and you can optionally upgrade to Deglaze Pro—an auto-renewing subscription t",
-    "category": "Home Brewers / Cocktail Enthusiasts",
-    "tags": [
-      "homebrew recipe app",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/deglaze-cooking-simplified/id6443578246?uo=4",
-    "icon": "🍺",
-    "rating": 4.86767,
-    "reviews": 3136,
-    "developer": "Deglazed LLC"
-  },
-  {
-    "id": 49,
-    "name": "MyRoutine: Routine Habit Goal",
-    "tagline": "Build good habits and keep you on track! Make a structured day w. Myroutine.\nMyR...",
-    "description": "Build good habits and keep you on track! Make a structured day w. Myroutine.\nMyRoutine is a daily routine & habit tracker app designed to maximize your productivity and well-being.\n\nTrack and manage your daily routines, habits, goals and moods in a single routine & habit tracker with ONE STOP SOLUTI",
-    "category": "Habit Tracking",
-    "tags": [
-      "daily routine tracker",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/myroutine-routine-habit-goal/id1518956326?uo=4",
-    "icon": "✅",
-    "rating": 4.7905,
-    "reviews": 3389,
-    "developer": "Minding. co., Ltd."
-  },
-  {
-    "id": 50,
-    "name": "EveryDose: Medication Reminder",
-    "tagline": "EveryDose is the easiest way to stay on track with your medications -- for free!...",
-    "description": "EveryDose is the easiest way to stay on track with your medications -- for free! Features include medication reminders, health info and tips, progress sharing, and much more.\n\nHELPFUL MEDICATION REMINDERS\nWe won't let you miss a dose! Our reliable medication reminders help you stay on track with you",
-    "category": "Pet Owners",
-    "tags": [
-      "pet medication reminder",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/everydose-medication-reminder/id1188929364?uo=4",
-    "icon": "🐾",
-    "rating": 4.76255,
-    "reviews": 4700,
-    "developer": "Groove Health"
-  },
-  {
-    "id": 51,
-    "name": "Seasoned: Jobs & Community",
-    "tagline": "Book interviews instantly and chat with recruiters in real time. Simple, direct,...",
-    "description": "Book interviews instantly and chat with recruiters in real time. Simple, direct, and designed to get you hired.\n\nLooking for a job at a bar, restaurant, or anywhere else in the service industry? Get hired faster with Seasoned.\n\nSeasoned is the only community app built exclusively for the service ind",
-    "category": "Servers / Bartenders / Hospitality",
-    "tags": [
-      "waiter tips",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/seasoned-jobs-community/id1440822962?uo=4",
-    "icon": "🍽️",
-    "rating": 4.45838,
-    "reviews": 3556,
-    "developer": "Seasoned, LLC"
-  },
-  {
-    "id": 52,
-    "name": "Basic Calculator: Classic Calc",
-    "tagline": "Calculator Free is a great free calculator with beautiful HD graphics and multip...",
-    "description": "Calculator Free is a great free calculator with beautiful HD graphics and multiple skins!\n\nFeatures:\n- Supports multitasking on iPad devices - Split View and Slide Over features\n- Multiple beautiful skins\n- General calculations: adding, subtracting, multiplying, dividing, square-rooting\n- Standard m",
-    "category": "Servers / Bartenders / Hospitality",
-    "tags": [
-      "tip calculator server",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/basic-calculator-classic-calc/id430271248?uo=4",
-    "icon": "🍽️",
-    "rating": 4.79186,
-    "reviews": 3070,
-    "developer": "MobArts"
-  },
-  {
-    "id": 53,
-    "name": "RoomSync",
-    "tagline": "With RoomSync, you can find and request your own roommate. Use a variety of tool...",
-    "description": "With RoomSync, you can find and request your own roommate. Use a variety of tools to find the perfect match including:\n\n- Join, search and match from your device\n- Get a % compatibility score for each possible roommate\n- Swipe right to like and get notified when they swipe back\n- Say hello on Instag",
-    "category": "Roommates / Shared Living",
-    "tags": [
-      "roommate expense splitter",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/roomsync/id498425717?uo=4",
-    "icon": "🏠",
-    "rating": 4.67521,
-    "reviews": 4603,
-    "developer": "U-Match, LLC"
-  },
-  {
-    "id": 54,
-    "name": "World Clock. Time Widget",
-    "tagline": "Our World Clock + Widgets goes beyond similar apps and iOS Clock App with the ad...",
-    "description": "Our World Clock + Widgets goes beyond similar apps and iOS Clock App with the addition of a widget and the easy-to-use time calculator. It has a clean design that is straightforward for fast navigation. The app is free to download and has every option that makes it the perfect world clock.\n\n\nFeature",
-    "category": "Digital Nomads / Remote Workers",
-    "tags": [
-      "timezone converter team",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/world-clock-time-widget/id1453369651?uo=4",
-    "icon": "🌍",
-    "rating": 4.67861,
-    "reviews": 4132,
-    "developer": "7270356 Canada Inc"
-  },
-  {
-    "id": 55,
-    "name": "Clearful - Journal & Diary",
-    "tagline": "Clearful is your journaling companion for personal growth and mental health. Dis...",
-    "description": "Clearful is your journaling companion for personal growth and mental health. Discover a smarter, less anxious, and happier you by exploring your experiences, thoughts, emotions, and ideas in a secure and private journal and diary.\n\nFEATURED \nApp of the Day\n5 Resolutions You'll Actually Keep\nNew Year",
+    "id": 12,
+    "name": "365 Gratitude Journal—SelfCare",
+    "tagline": "Feeling overwhelmed by stress and anxiety? Discover joy and calm with a science-...",
+    "description": "Feeling overwhelmed by stress and anxiety? Discover joy and calm with a science-based gratitude journal designed for your self-growth. This is more than a diary—it's your path to a positive mindset in just 5 minutes a day.\n\n\"It's not really an 'app'. It's a family of gratitude warriors that want to ",
     "category": "Journaling / Bullet Journaling",
     "tags": [
       "daily journal prompts",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/clearful-journal-diary/id1513257639?uo=4",
+    "url": "https://apps.apple.com/us/app/365-gratitude-journal-selfcare/id1072397377?uo=4",
     "icon": "📔",
-    "rating": 4.75118,
-    "reviews": 2954,
-    "developer": "Clearful Journal, Mindfulness Diary and Mental Health Inc."
+    "rating": 4.76262,
+    "reviews": 4453,
+    "developer": "UofHappy, LLC"
   },
   {
-    "id": 56,
-    "name": "CookBook - Recipe Keeper",
-    "tagline": "CookBook is the #1 AI recipe organizer and meal planner loved by thousands of ho...",
-    "description": "CookBook is the #1 AI recipe organizer and meal planner loved by thousands of home cooks. Keep every recipe, grocery list and meal prep plan in one place. Import recipes from Instagram, TikTok or any website, track macros and order groceries in a tap. Start free with a 14-day trial.\n\nIMPORT & CREATE",
-    "category": "Meal Preppers",
+    "id": 13,
+    "name": "Trash Panda - Food Scanner",
+    "tagline": "Trash Panda is a food scanner app that helps you easily uncover hidden additives...",
+    "description": "Trash Panda is a food scanner app that helps you easily uncover hidden additives and harmful ingredients in your food and find healthier alternatives.\n\nYou can transform your family’s health with Trash Panda’s food scanner by taking control of what goes in your body - avoiding harmful additives and ",
+    "category": "Food Sensitivities / Allergies",
     "tags": [
-      "batch cooking app",
+      "allergy food scanner",
       "iOS"
     ],
-    "url": "https://apps.apple.com/us/app/cookbook-recipe-keeper/id1073341917?uo=4",
-    "icon": "🥗",
-    "rating": 4.75512,
-    "reviews": 2344,
-    "developer": "CookBook Co. Pty Ltd"
+    "url": "https://apps.apple.com/us/app/trash-panda-food-scanner/id1539759995?uo=4",
+    "icon": "🥜",
+    "rating": 4.80808,
+    "reviews": 2944,
+    "developer": "Sly Trunk"
   },
   {
-    "id": 57,
-    "name": "Supershift Shift Work Calendar",
-    "tagline": "Supershift is great for keeping up with your shift working schedule and all othe...",
-    "description": "Supershift is great for keeping up with your shift working schedule and all other calendar events in between. With Supershift, scheduling is easy and quick, plus it works with the Apple Watch for a quick view. You can customize shifts with colors and icons and add as many shifts per day as you’d lik",
-    "category": "Nurses / Healthcare Shift Workers",
-    "tags": [
-      "nurse schedule app",
-      "iOS"
-    ],
-    "url": "https://apps.apple.com/us/app/supershift-shift-work-calendar/id1104165041?uo=4",
-    "icon": "🏥",
-    "rating": 4.86229,
-    "reviews": 4749,
-    "developer": "Supershift GmbH"
-  },
-  {
-    "id": 58,
+    "id": 14,
     "name": "Ivy: Processed Food Scanner",
     "tagline": "Join thousands of people ending their processed food intake, and regaining total...",
     "description": "Join thousands of people ending their processed food intake, and regaining total control of their health and their kids health. \n\nIvy is the #1 food scanner app, designed to help you regain control of your health and live longer healthier lives. Whether you’re looking to cut down or quit entirely, I",
@@ -923,12 +219,444 @@
     ],
     "url": "https://apps.apple.com/us/app/ivy-processed-food-scanner/id6642701963?uo=4",
     "icon": "🥜",
-    "rating": 4.77953,
-    "reviews": 3293,
+    "rating": 4.77663,
+    "reviews": 3389,
     "developer": "Ramzy Nanou"
   },
   {
-    "id": 59,
+    "id": 15,
+    "name": "Mila Air",
+    "tagline": "Say hello to Mila, the refreshingly thoughtful air purifier. Mila is the first s...",
+    "description": "Say hello to Mila, the refreshingly thoughtful air purifier. Mila is the first smart air purifier of its kind that makes controlling your home’s air quality as intuitive as setting your thermostat. With Mila, you’ll discover a best-in-class HEPA air purifier that’s smart, simple, quiet, and affordab",
+    "category": "Home Maintenance",
+    "tags": [
+      "hvac filter reminder",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/mila-air/id1520776049?uo=4",
+    "icon": "🔧",
+    "rating": 4.54687,
+    "reviews": 4630,
+    "developer": "Mila USA, Inc."
+  },
+  {
+    "id": 16,
+    "name": "Calculator: No Ads / Ad-Free",
+    "tagline": "Looking for a Calculator app with NO ADS and COMPLETE PRIVACY?\nHere’s why ours s...",
+    "description": "Looking for a Calculator app with NO ADS and COMPLETE PRIVACY?\nHere’s why ours stands out:\n\n• SCIENTIFIC CALCULATOR: Integrated scientific calculator with trigonometry, logarithms, exponents, roots, and more. \n \n• COMPREHENSIVE CALCULATOR: Easily manage Budgets, Mortgages, Loans, Compound Interest, ",
+    "category": "Roommates / Shared Living",
+    "tags": [
+      "rent split calculator",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/calculator-no-ads-ad-free/id1548766499?uo=4",
+    "icon": "🏠",
+    "rating": 4.70407,
+    "reviews": 4393,
+    "developer": "Gary Cox"
+  },
+  {
+    "id": 17,
+    "name": "Daily Habit & Routine Tracker",
+    "tagline": "Creating healthy habits is easy! Improve yourself with the help of a habit track...",
+    "description": "Creating healthy habits is easy! Improve yourself with the help of a habit tracker.\n\nDo you often plan ambitious goals, only to give up later? Have you tried repeatedly to introduce healthy habits into your life, but stop working on yourself after only a few days? Now, you can change your life for t",
+    "category": "Habit Tracking",
+    "tags": [
+      "daily routine tracker",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/daily-habit-routine-tracker/id1477345602?uo=4",
+    "icon": "✅",
+    "rating": 4.641,
+    "reviews": 4688,
+    "developer": "CREATIVE TECHNOLOGIES LLC"
+  },
+  {
+    "id": 18,
+    "name": "Baby Tracker!",
+    "tagline": "Helps to identify the patterns and behavior of your little one. Helps track all ...",
+    "description": "Helps to identify the patterns and behavior of your little one. Helps track all the things: feeding, sleep, diapers, pictures, measurements, medicine and more in one place. Extremely simple to use and keeps track of everything you need.\n\nBaby Tracker:\n- breastfeeding and baby feeding tracker\n- baby ",
+    "category": "New Parents",
+    "tags": [
+      "baby tracker feeding",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/baby-tracker/id1444238371?uo=4",
+    "icon": "👶",
+    "rating": 4.79907,
+    "reviews": 4967,
+    "developer": "Amila Tech Limited"
+  },
+  {
+    "id": 19,
+    "name": "Fanni فني",
+    "tagline": "Get your Handyman with a minute\nOver 300 Home Repair Services available on the a...",
+    "description": "Get your Handyman with a minute\nOver 300 Home Repair Services available on the app\nWith a click you will be connect to the best Fanni in your area\nNot only this.. we offer:\n- Free detection\n- Multiple Payment Options\n- Customer Support Team\n- 30 Days Warranty",
+    "category": "Home Maintenance",
+    "tags": [
+      "home repair log",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/fanni-%D9%81%D9%86%D9%8A/id1136144566?uo=4",
+    "icon": "🔧",
+    "rating": 4.75967,
+    "reviews": 3129,
+    "developer": "fanni"
+  },
+  {
+    "id": 20,
+    "name": "Supershift Shift Work Calendar",
+    "tagline": "Supershift is great for keeping up with your shift working schedule and all othe...",
+    "description": "Supershift is great for keeping up with your shift working schedule and all other calendar events in between. With Supershift, scheduling is easy and quick, plus it works with the Apple Watch for a quick view. You can customize shifts with colors and icons and add as many shifts per day as you’d lik",
+    "category": "Night Shift Workers",
+    "tags": [
+      "night shift schedule",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/supershift-shift-work-calendar/id1104165041?uo=4",
+    "icon": "🌙",
+    "rating": 4.86243,
+    "reviews": 4754,
+    "developer": "Supershift GmbH"
+  },
+  {
+    "id": 21,
+    "name": "School Assistant – Planner",
+    "tagline": "School Assistant by Sun Apps is a simple but powerful school planner app. It all...",
+    "description": "School Assistant by Sun Apps is a simple but powerful school planner app. It allows you to quickly and easily keep track of homework, tests, and your schedule, see and save Google Classroom assignments, quickly access saved websites, and more.\n\nFirst, as a student myself, I know how hard it can be t",
+    "category": "Teachers / Tutors",
+    "tags": [
+      "lesson planner teacher",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/school-assistant-planner/id1465687472?uo=4",
+    "icon": "📚",
+    "rating": 4.75867,
+    "reviews": 4239,
+    "developer": "Sun Apps, LLC"
+  },
+  {
+    "id": 22,
+    "name": "Bluon HVAC",
+    "tagline": "Bluon helps you finish jobs at warp speed. Search our database of 500,000 HVAC m...",
+    "description": "Bluon helps you finish jobs at warp speed. Search our database of 500,000 HVAC models for manuals and part lists. Get detailed troubleshooting instructions from MasterMecahanic, our A.I. built for techs, or use our Live Support line to get help from our HVAC veterans.\n\nBluon is the largest HVAC comm",
+    "category": "Home Maintenance",
+    "tags": [
+      "hvac filter reminder",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/bluon-hvac/id1357521880?uo=4",
+    "icon": "🔧",
+    "rating": 4.77231,
+    "reviews": 4449,
+    "developer": "Bluon, Inc."
+  },
+  {
+    "id": 23,
+    "name": "10BII Calc HD",
+    "tagline": "10BII Calc HD is a business calculator featuring over 100 built-in functions for...",
+    "description": "10BII Calc HD is a business calculator featuring over 100 built-in functions for business, finance, mathematics and statistics. Easily calculate loan payments, interest rates, amortization, discounted cash-flow analyses, TVM (loans, savings, and leasing), bonds and depreciation using a simplified al",
+    "category": "Roommates / Shared Living",
+    "tags": [
+      "rent split calculator",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/10bii-calc-hd/id382452060?uo=4",
+    "icon": "🏠",
+    "rating": 4.926,
+    "reviews": 3635,
+    "developer": "Ernest Brock"
+  },
+  {
+    "id": 24,
+    "name": "Free Stuff Finder - Save Money",
+    "tagline": "Save 50% (or more) on everyday purchases! Imagine never paying full-price again ...",
+    "description": "Save 50% (or more) on everyday purchases! Imagine never paying full-price again on things you already buy, like toilet paper, toothpaste, shampoo, groceries, diapers and shoes. Join 1 million smart & good-looking readers.\n\nFree Stuff Finder is a leading national savings and deal community. We save y",
+    "category": "Thrifters / Vintage Shoppers",
+    "tags": [
+      "thrift store finder",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/free-stuff-finder-save-money/id1438730963?uo=4",
+    "icon": "👗",
+    "rating": 4.57603,
+    "reviews": 2828,
+    "developer": "Simple Life Media, LLC"
+  },
+  {
+    "id": 25,
+    "name": "Receipt Lens - Expense Tracker",
+    "tagline": "Track your receipts and manage expenses the easiest way with Receipt Lens! Get i...",
+    "description": "Track your receipts and manage expenses the easiest way with Receipt Lens! Get instant receipt reading and expense report with just one tap. \nTry Receipt Lens NOW - your ultimate time-saver and virtual accountant at your fingertips.\n\n -Just snap a picture of a receipt and Receipt Lens automatically ",
+    "category": "Freelancers / Gig Workers",
+    "tags": [
+      "self employed expense",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/receipt-lens-expense-tracker/id1424280764?uo=4",
+    "icon": "💼",
+    "rating": 4.72459,
+    "reviews": 4212,
+    "developer": "Glority Global Group Ltd."
+  },
+  {
+    "id": 26,
+    "name": "Cara Care: IBS, FODMAP Tracker",
+    "tagline": "Cara Care takes the mystery out of your digestion. It’s the easiest way to manag...",
+    "description": "Cara Care takes the mystery out of your digestion. It’s the easiest way to manage and track gut issues like IBS, IBD, GERD, Celiac, dyspepsia, or food intolerances.\n\nTrack your poop, stress, food, pain, and other symptoms (e.g. from IBS) with just a few taps. \n\nThe app shows you what your food, symp",
+    "category": "People with Chronic Illness",
+    "tags": [
+      "symptom tracker app",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/cara-care-ibs-fodmap-tracker/id1133687886?uo=4",
+    "icon": "💊",
+    "rating": 4.78393,
+    "reviews": 4568,
+    "developer": "HiDoc Technologies GmbH"
+  },
+  {
+    "id": 27,
+    "name": "PetPage",
+    "tagline": "Smarter Pet Care at Your Fingertips\n\nPetPage makes it easy to stay connected to ...",
+    "description": "Smarter Pet Care at Your Fingertips\n\nPetPage makes it easy to stay connected to your veterinarian and manage your pet’s health anytime, anywhere. With sleek, user-friendly tools, it simplifies pet care—all from the palm of your hand.\n\nKey Features:\n- View Health Care Information: Access reminders, a",
+    "category": "Pet Owners",
+    "tags": [
+      "vet appointment tracker",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/petpage/id6443568264?uo=4",
+    "icon": "🐾",
+    "rating": 4.84737,
+    "reviews": 4547,
+    "developer": "AllyDVM"
+  },
+  {
+    "id": 28,
+    "name": "Pocket Pharmacist",
+    "tagline": "\"Pocket Pharmacist feels like you're talking to a live pharmacist versus reading...",
+    "description": "\"Pocket Pharmacist feels like you're talking to a live pharmacist versus reading through an encyclopedia!\"\n\nDownload now for a free trial.  Not impressed?  Simply unsubscribe and walk away without paying a dime (during the 1-week free trial period).\n\nDRUG INFORMATION\n∙ Drug summaries are curated and",
+    "category": "Medication Management",
+    "tags": [
+      "drug interaction checker",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/pocket-pharmacist/id387365379?uo=4",
+    "icon": "💉",
+    "rating": 4.71429,
+    "reviews": 3815,
+    "developer": "Danike, Inc."
+  },
+  {
+    "id": 29,
+    "name": "Vintage Film Camera: Retro Art",
+    "tagline": "Shoot retro-style videos with one tap.\nJust press the record button to turn ever...",
+    "description": "Shoot retro-style videos with one tap.\nJust press the record button to turn everyday scenes into hundred years old movies!\n\n[[ Friendly reminder ]]\nThis app simulates an analog film-reel camera.\nThere are some restrictions that don't exist in other video apps. \n\n- The maximum length of the video is ",
+    "category": "Thrifters / Vintage Shoppers",
+    "tags": [
+      "vintage price guide",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/vintage-film-camera-retro-art/id991464425?uo=4",
+    "icon": "👗",
+    "rating": 4.5694,
+    "reviews": 4373,
+    "developer": "Daichi Sasaki"
+  },
+  {
+    "id": 30,
+    "name": "Dawn Patrol Surf, Wave Tracker",
+    "tagline": "Your Apple Watch is a Surf Watch with Dawn Patrol.\nThe best surf tracker for App...",
+    "description": "Your Apple Watch is a Surf Watch with Dawn Patrol.\nThe best surf tracker for Apple Watch, with todays Surfline forecast(*) of your favourite beaches right there on your wrist and glancable widgets immediately on your phone.\nOur basic features are FREE for all surfers and if you subscribe to Soul Sur",
+    "category": "People with Chronic Illness",
+    "tags": [
+      "flare tracker",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/dawn-patrol-surf-wave-tracker/id1161014179?uo=4",
+    "icon": "💊",
+    "rating": 4.65733,
+    "reviews": 4039,
+    "developer": "Dawn Patrol Surf Tracking"
+  },
+  {
+    "id": 31,
+    "name": "Symmetry: AI Gym Workout Log",
+    "tagline": "Get an aesthetic body with the world’s #1 gym app! Free and ad-free.\n\n\nDesigned ...",
+    "description": "Get an aesthetic body with the world’s #1 gym app! Free and ad-free.\n\n\nDesigned by gym experts, Symmetry replaces a personal trainer by creating 100% personalized workout plans powered by AI.\n\n\nIt’s simple: Go to the gym, use Symmetry, and build more muscle than ever.\n\n\nThis is what you get when you",
+    "category": "People with ADHD",
+    "tags": [
+      "body doubling app",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/symmetry-ai-gym-workout-log/id6474446718?uo=4",
+    "icon": "🧠",
+    "rating": 4.79589,
+    "reviews": 3170,
+    "developer": "Symmetry Club LLC"
+  },
+  {
+    "id": 32,
+    "name": "Buildertrend",
+    "tagline": "Say goodbye to constant chaos. Align your team. Drive growth. Impress clients. W...",
+    "description": "Say goodbye to constant chaos. Align your team. Drive growth. Impress clients. With Buildertrend construction software, you can work simpler and run your business - without letting it run you. Our platform helps construction professionals build more by reducing delays, eliminating communication erro",
+    "category": "Freelancers / Gig Workers",
+    "tags": [
+      "contractor mileage",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/buildertrend/id504370616?uo=4",
+    "icon": "💼",
+    "rating": 4.50031,
+    "reviews": 4781,
+    "developer": "Buildertrend Solutions, Inc."
+  },
+  {
+    "id": 33,
+    "name": "Basic Calculator: Classic Calc",
+    "tagline": "Calculator Free is a great free calculator with beautiful HD graphics and multip...",
+    "description": "Calculator Free is a great free calculator with beautiful HD graphics and multiple skins!\n\nFeatures:\n- Supports multitasking on iPad devices - Split View and Slide Over features\n- Multiple beautiful skins\n- General calculations: adding, subtracting, multiplying, dividing, square-rooting\n- Standard m",
+    "category": "Servers / Bartenders / Hospitality",
+    "tags": [
+      "tip calculator server",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/basic-calculator-classic-calc/id430271248?uo=4",
+    "icon": "🍽️",
+    "rating": 4.79232,
+    "reviews": 3072,
+    "developer": "MobArts"
+  },
+  {
+    "id": 34,
+    "name": "WebstaurantStore",
+    "tagline": "WebstaurantStore is the largest online restaurant supplier servicing professiona...",
+    "description": "WebstaurantStore is the largest online restaurant supplier servicing professionals and individual customers worldwide. With hundreds of thousands of products available and millions of orders shipped, we have everything your business needs to function at its best. \n\nOur focus is your convenience – or",
+    "category": "Home Brewers / Cocktail Enthusiasts",
+    "tags": [
+      "home bar inventory",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/webstaurantstore/id1581450224?uo=4",
+    "icon": "🍺",
+    "rating": 4.90801,
+    "reviews": 2359,
+    "developer": "WebstaurantStore"
+  },
+  {
+    "id": 35,
+    "name": "To Do Reminder with Alarm",
+    "tagline": "To Do Reminder\n“Make life easier”\n\nMemory like a sieve? Now there’s no need to r...",
+    "description": "To Do Reminder\n“Make life easier”\n\nMemory like a sieve? Now there’s no need to remember all those things you have to do, because To Do Reminder can do that for you! It’s quick and easy to use; you can set a task in the reminder list in mere seconds.\n\n- Easy and quick to set reminders\n- Set a one-off",
+    "category": "Subscription Tracking",
+    "tags": [
+      "cancel subscription reminder",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/to-do-reminder-with-alarm/id733049800?uo=4",
+    "icon": "💳",
+    "rating": 4.58911,
+    "reviews": 2609,
+    "developer": "Balpreet Patil"
+  },
+  {
+    "id": 36,
+    "name": "CopApp Shift Calendar Schedule",
+    "tagline": "Simple Calendar App for Repeating Shift Schedules & adding notes/highlight color...",
+    "description": "Simple Calendar App for Repeating Shift Schedules & adding notes/highlight colors for any day.   Choose from Light or Dark themes, and customize to your schedule.\n\nUpgrade for Pro Features like adding notes and reminders, highlight colors for any day, import/export schedule, share schedule, and more",
+    "category": "Night Shift Workers",
+    "tags": [
+      "shift work calendar",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/copapp-shift-calendar-schedule/id505736737?uo=4",
+    "icon": "🌙",
+    "rating": 4.87768,
+    "reviews": 2845,
+    "developer": "MyProjectX, Inc."
+  },
+  {
+    "id": 37,
+    "name": "Orca: Formerly HappyFeed Diary",
+    "tagline": "Orca (formerly Happyfeed) is a daily photo journal and video diary focused on gr...",
+    "description": "Orca (formerly Happyfeed) is a daily photo journal and video diary focused on gratitude and positive memories. Reflect on good things, as a gratitude journal, to boost your happiness and help you focus on the brighter side of life. Keep it private or join a group to share memories with friends and f",
+    "category": "Journaling / Bullet Journaling",
+    "tags": [
+      "gratitude journal app",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/orca-formerly-happyfeed-diary/id707073943?uo=4",
+    "icon": "📔",
+    "rating": 4.83968,
+    "reviews": 3911,
+    "developer": "HappyFeed Inc."
+  },
+  {
+    "id": 38,
+    "name": "World Clock. Time Widget",
+    "tagline": "Our World Clock + Widgets goes beyond similar apps and iOS Clock App with the ad...",
+    "description": "Our World Clock + Widgets goes beyond similar apps and iOS Clock App with the addition of a widget and the easy-to-use time calculator. It has a clean design that is straightforward for fast navigation. The app is free to download and has every option that makes it the perfect world clock.\n\n\nFeature",
+    "category": "Digital Nomads / Remote Workers",
+    "tags": [
+      "timezone converter team",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/world-clock-time-widget/id1453369651?uo=4",
+    "icon": "🌍",
+    "rating": 4.679,
+    "reviews": 4134,
+    "developer": "7270356 Canada Inc"
+  },
+  {
+    "id": 39,
+    "name": "HealthTap Primary Care Doctors",
+    "tagline": "HealthTap is a telehealth app where you choose & keep one primary care doctor yo...",
+    "description": "HealthTap is a telehealth app where you choose & keep one primary care doctor you love to get ongoing care — affordably with or without great insurance or benefits!\n\nGet personalized, quality medical advice without an expensive and inconvenient trip to a doctor’s office. Meet with your favorite new ",
+    "category": "People with Chronic Illness",
+    "tags": [
+      "doctor visit notes",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/healthtap-primary-care-doctors/id466079030?uo=4",
+    "icon": "💊",
+    "rating": 4.69745,
+    "reviews": 4786,
+    "developer": "HealthTap"
+  },
+  {
+    "id": 40,
+    "name": "Talli Baby Tracker Newborn Log",
+    "tagline": "Talli Baby Tracker is the most flexible and convenient infant feeding, diaper, a...",
+    "description": "Talli Baby Tracker is the most flexible and convenient infant feeding, diaper, and sleep tracking app. Keep track of everything parents want to know and pediatricians ask about for infants and newborns. And Talli Baby Tracker is the only tracking app you can customize for your family's exact needs. ",
+    "category": "New Parents",
+    "tags": [
+      "diaper tracker",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/talli-baby-tracker-newborn-log/id1383601403?uo=4",
+    "icon": "👶",
+    "rating": 4.90215,
+    "reviews": 4660,
+    "developer": "BabyLogger, LLC"
+  },
+  {
+    "id": 41,
+    "name": "Expenses: Spending Tracker",
+    "tagline": "Track your spending with Expenses\n\nExpenses focuses on what matters: tracking yo...",
+    "description": "Track your spending with Expenses\n\nExpenses focuses on what matters: tracking your money simply and privately. Log your expenses and income in any currency, organize them with categories, and understand your spending habits with intuitive stats and spending trends. With iCloud, your data stays in sy",
+    "category": "Subscription Tracking",
+    "tags": [
+      "subscription tracker app",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/expenses-spending-tracker/id1492055171?uo=4",
+    "icon": "💳",
+    "rating": 4.79467,
+    "reviews": 1651,
+    "developer": "BLUE COMET LABS LLC"
+  },
+  {
+    "id": 42,
     "name": "swipejobs",
     "tagline": "Work on your terms with swipejobs\n\nThe swipejobs Talent App puts you in control—...",
     "description": "Work on your terms with swipejobs\n\nThe swipejobs Talent App puts you in control—choose jobs that fit your schedule, skills, and preferences for any industry with just a swipe. Whether you’re looking for a temporary, contract, or permanent gig, our AI-powered matching connects you directly with busin",
@@ -939,12 +667,140 @@
     ],
     "url": "https://apps.apple.com/us/app/swipejobs/id1550227423?uo=4",
     "icon": "🌍",
-    "rating": 4.5423,
-    "reviews": 4975,
+    "rating": 4.54258,
+    "reviews": 4978,
     "developer": "swipejobs, Inc."
   },
   {
-    "id": 60,
+    "id": 43,
+    "name": "CDLLife",
+    "tagline": "Join the nation’s #1 trucking community with features that save you time and con...",
+    "description": "Join the nation’s #1 trucking community with features that save you time and connect you with other drivers.\n\nFEED\n \n• Join the conversation, get advice, give tips to other drivers, and build friendships along the way!\n• Earn badges\n• Race to the top of the weekly leaderboard\n\nFRIENDS\n \n• Connect wi",
+    "category": "Truck Drivers / Delivery",
+    "tags": [
+      "trucker log book",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/cdllife/id1407032419?uo=4",
+    "icon": "🚚",
+    "rating": 4.71311,
+    "reviews": 3395,
+    "developer": "CDLLife"
+  },
+  {
+    "id": 44,
+    "name": "Be Focused Pro - Focus Timer",
+    "tagline": "Staying on task seems is a real challenge for our screen-bound generation. The B...",
+    "description": "Staying on task seems is a real challenge for our screen-bound generation. The Be Focused lets you get things done by breaking up individual tasks among discrete intervals, separated by short breaks. It’s a surprisingly effective way to retain motivation and focus. Create tasks, configure breaks and",
+    "category": "People with ADHD",
+    "tags": [
+      "focus timer adhd",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/be-focused-pro-focus-timer/id953426154?uo=4",
+    "icon": "🧠",
+    "rating": 4.6352,
+    "reviews": 2966,
+    "developer": "Denys Ievenko"
+  },
+  {
+    "id": 45,
+    "name": "Pill Reminder and Med Tracker",
+    "tagline": "Pill Reminder - Never forget to take your medications again with this app. It's ...",
+    "description": "Pill Reminder - Never forget to take your medications again with this app. It's easy to use and reliable, allowing you to set up any recurring reminders you need (every X hours, specific times, daily, weekly, specific days of the week, every X days, etc).\n\nIt has everything you need:\n\n• Mark Medicat",
+    "category": "Medication Management",
+    "tags": [
+      "pill reminder app",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/pill-reminder-and-med-tracker/id1499766996?uo=4",
+    "icon": "💉",
+    "rating": 4.77784,
+    "reviews": 1688,
+    "developer": "Sergio Licea"
+  },
+  {
+    "id": 46,
+    "name": "Deglaze: Cooking, Simplified",
+    "tagline": "Deglaze is built for people that love to cook. It simplifies your life by making...",
+    "description": "Deglaze is built for people that love to cook. It simplifies your life by making it easy to get all of your recipes in one place and to create organized grocery lists in seconds.\n\nA fully featured free version is included, and you can optionally upgrade to Deglaze Pro—an auto-renewing subscription t",
+    "category": "Home Brewers / Cocktail Enthusiasts",
+    "tags": [
+      "homebrew recipe app",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/deglaze-cooking-simplified/id6443578246?uo=4",
+    "icon": "🍺",
+    "rating": 4.86672,
+    "reviews": 3144,
+    "developer": "Deglazed LLC"
+  },
+  {
+    "id": 47,
+    "name": "Mudflap",
+    "tagline": "Mudflap helps drivers save BIG on diesel with instant discounts at 2,800+ truck ...",
+    "description": "Mudflap helps drivers save BIG on diesel with instant discounts at 2,800+ truck stops across the U.S.—including TA Petro, Speedway, Kwik Trip, Sapp Bros, Casey’s, Maverik, AMBEST, Road Ranger, and more.\n\nMudflap also provides FREE, Truck-Safe GPS Navigation. Get free, reliable routes that avoid low ",
+    "category": "Truck Drivers / Delivery",
+    "tags": [
+      "truck stop finder",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/mudflap/id1488815024?uo=4",
+    "icon": "🚚",
+    "rating": 4.74102,
+    "reviews": 3954,
+    "developer": "Mudflap Inc"
+  },
+  {
+    "id": 48,
+    "name": "everyday - Habit Tracker",
+    "tagline": "\"Every day, it gets a little easier. But you gotta do it every day, that's the h...",
+    "description": "\"Every day, it gets a little easier. But you gotta do it every day, that's the hard part.\"\n\nSimple and beautiful habit tracker: Form new habits to achieve your goals\n\nDO IT EVERY DAY: Get disciplined. Doing it every day helps you form new habits, and habits are what make you reach your goals\n\nDON'T ",
+    "category": "Habit Tracking",
+    "tags": [
+      "habit tracker simple",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/everyday-habit-tracker/id1394150432?uo=4",
+    "icon": "✅",
+    "rating": 4.70852,
+    "reviews": 4364,
+    "developer": "Everyday Growth S.L."
+  },
+  {
+    "id": 49,
+    "name": "Tip Calculator % Tap Tip",
+    "tagline": "Hmmm so I have a bill of $259.65 including tax, so how much should I tip?\n\nTippi...",
+    "description": "Hmmm so I have a bill of $259.65 including tax, so how much should I tip?\n\nTipping used to be simple. Now with a truck load of taxes, service charges, per person splitting and what not, a simple restaurant etiquette has turned into a full on battle of the brains.\n\nLuckily, there’s Tap Tip to save yo",
+    "category": "Servers / Bartenders / Hospitality",
+    "tags": [
+      "tip calculator server",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/tip-calculator-tap-tip/id695431266?uo=4",
+    "icon": "🍽️",
+    "rating": 4.74716,
+    "reviews": 2468,
+    "developer": "Tardent Apps Inc."
+  },
+  {
+    "id": 50,
+    "name": "Forms for Google Forms & Quiz",
+    "tagline": "Introducing Form for Google Forms! Effortlessly Craft Custom Forms on the Go! Cr...",
+    "description": "Introducing Form for Google Forms! Effortlessly Craft Custom Forms on the Go! Create and modify Google Forms directly from your iPhone or iPad with Forms for Google Forms. Tailor personalized forms, surveys, quizzes, and more with ease using our robust app.\n\nUnlock the Power of Forms:\n- Swiftly crea",
+    "category": "Photographers / Videographers",
+    "tags": [
+      "model release form",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/forms-for-google-forms-quiz/id1528832508?uo=4",
+    "icon": "📷",
+    "rating": 4.72893,
+    "reviews": 4877,
+    "developer": "Niharika Jindal"
+  },
+  {
+    "id": 51,
     "name": "Lumy",
     "tagline": "Lumy is a modern sun tracker + outdoor activity planner.\n\n- Perfect lighting for...",
     "description": "Lumy is a modern sun tracker + outdoor activity planner.\n\n- Perfect lighting for photos or videos? Done.\n- Sunrise hike or sunset walk? Easy.\n- Outdoor yoga or sunlight breaks? Covered.\n\nWhether you’re chasing golden hour* or keeping an eye on moon phases for a night under the stars, Lumy helps you ",
@@ -955,8 +811,152 @@
     ],
     "url": "https://apps.apple.com/us/app/lumy/id908905093?uo=4",
     "icon": "📷",
-    "rating": 4.81017,
-    "reviews": 2123,
+    "rating": 4.81034,
+    "reviews": 2125,
     "developer": "Raja V"
+  },
+  {
+    "id": 52,
+    "name": "RoomSync",
+    "tagline": "With RoomSync, you can find and request your own roommate. Use a variety of tool...",
+    "description": "With RoomSync, you can find and request your own roommate. Use a variety of tools to find the perfect match including:\n\n- Join, search and match from your device\n- Get a % compatibility score for each possible roommate\n- Swipe right to like and get notified when they swipe back\n- Say hello on Instag",
+    "category": "Roommates / Shared Living",
+    "tags": [
+      "roommate expense splitter",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/roomsync/id498425717?uo=4",
+    "icon": "🏠",
+    "rating": 4.67555,
+    "reviews": 4614,
+    "developer": "U-Match, LLC"
+  },
+  {
+    "id": 53,
+    "name": "atWork Hours & Pay Tracker",
+    "tagline": "Easily track your work hours, overtime, and earnings with atWork — the simple ti...",
+    "description": "Easily track your work hours, overtime, and earnings with atWork — the simple time tracker and timesheet app for freelancers, contractors, and hourly employees. See where your time goes, how much you’ve earned, and manage jobs, shifts, and clients all in one place. Create custom timesheets with all ",
+    "category": "Freelancers / Gig Workers",
+    "tags": [
+      "gig tracker",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/atwork-hours-pay-tracker/id857189697?uo=4",
+    "icon": "💼",
+    "rating": 4.74593,
+    "reviews": 3743,
+    "developer": "Sergej Steinbach"
+  },
+  {
+    "id": 54,
+    "name": "Pet Zero",
+    "tagline": "Pet Zero is a good help for your communication with the pets.\nPet Zero now suppo...",
+    "description": "Pet Zero is a good help for your communication with the pets.\nPet Zero now supports 2 knids of pet feeders. They can easily help you timed feed, manually feed remotely, and notify you when there is lack of foods.\n\n-Smart pet feeder\nSupport monitoring real-time video captured by the camera on the fee",
+    "category": "Pet Owners",
+    "tags": [
+      "pet feeding schedule",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/pet-zero/id1507536028?uo=4",
+    "icon": "🐾",
+    "rating": 4.82483,
+    "reviews": 3471,
+    "developer": "泽明 任"
+  },
+  {
+    "id": 55,
+    "name": "EveryDose: Medication Reminder",
+    "tagline": "EveryDose is the easiest way to stay on track with your medications -- for free!...",
+    "description": "EveryDose is the easiest way to stay on track with your medications -- for free! Features include medication reminders, health info and tips, progress sharing, and much more.\n\nHELPFUL MEDICATION REMINDERS\nWe won't let you miss a dose! Our reliable medication reminders help you stay on track with you",
+    "category": "Pet Owners",
+    "tags": [
+      "pet medication reminder",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/everydose-medication-reminder/id1188929364?uo=4",
+    "icon": "🐾",
+    "rating": 4.76285,
+    "reviews": 4710,
+    "developer": "Groove Health"
+  },
+  {
+    "id": 56,
+    "name": "Forms fоr Google Form",
+    "tagline": "Forms For Google Forms: Create, edit and view your Google forms on your phone!\n\n...",
+    "description": "Forms For Google Forms: Create, edit and view your Google forms on your phone!\n\nThe app allows users to create and edit surveys online while collaborating with other users in real-time. The collected information can be viewed and saved.\n- Create new Google Form or edit exist forms\n- Share forms with",
+    "category": "Photographers / Videographers",
+    "tags": [
+      "model release form",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/forms-f%D0%BEr-google-form/id6470381988?uo=4",
+    "icon": "📷",
+    "rating": 4.75631,
+    "reviews": 4559,
+    "developer": "Sanpeliano LTD"
+  },
+  {
+    "id": 57,
+    "name": "SchoolPass",
+    "tagline": "SchoolPass is a K-12 platform that helps schools manage campus movement, attenda...",
+    "description": "SchoolPass is a K-12 platform that helps schools manage campus movement, attendance, and campus wellness, in the cloud. \n\nSchools can consolidate and modernize the arrival, screening, and departure of students, visitors, and staff in one place, while enabling staff to more quickly and accurately acc",
+    "category": "Teachers / Tutors",
+    "tags": [
+      "student behavior tracker",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/schoolpass/id1522645864?uo=4",
+    "icon": "📚",
+    "rating": 4.69168,
+    "reviews": 4424,
+    "developer": "Raptor Technologies, LLC"
+  },
+  {
+    "id": 58,
+    "name": "My Shift Planner - Calendar",
+    "tagline": "MyShiftPlanner – The Ultimate Shift Work Calendar. Stay organised, save time and...",
+    "description": "MyShiftPlanner – The Ultimate Shift Work Calendar. Stay organised, save time and take control of your shift life with MyShiftPlanner, the #1 calendar app made just for shift workers.\n\nFrom nurses, drivers and retail workers to engineers, airline crew and paramedics, over 400,000 shift workers worldw",
+    "category": "Night Shift Workers",
+    "tags": [
+      "night shift schedule",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/my-shift-planner-calendar/id645662133?uo=4",
+    "icon": "🌙",
+    "rating": 4.81956,
+    "reviews": 3087,
+    "developer": "MyBuzz Technologies Limited"
+  },
+  {
+    "id": 59,
+    "name": "Expense Tracker - Money Note",
+    "tagline": "MoneyNote – Simple & Free Budget Tracker\n\nA simple budgeting app to track income...",
+    "description": "MoneyNote – Simple & Free Budget Tracker\n\nA simple budgeting app to track income and expenses with ease.\n\nNo account registration, no bank connections, and no subscriptions.\nAll data is stored locally for fast, secure, offline use.\n\nDesigned with a familiar iOS interface, MoneyNote lets anyone start",
+    "category": "Subscription Tracking",
+    "tags": [
+      "recurring expense tracker",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/expense-tracker-money-note/id1320730220?uo=4",
+    "icon": "💳",
+    "rating": 4.8879,
+    "reviews": 2908,
+    "developer": "Komorebi Inc."
+  },
+  {
+    "id": 60,
+    "name": "Napper: Baby Sleep Tracker",
+    "tagline": "Napper is the game-changing, award-winning app that uses data, science, and a li...",
+    "description": "Napper is the game-changing, award-winning app that uses data, science, and a little bit of algorithmic magic to predict your baby’s naps and bedtime - with almost uncanny accuracy.\n\nOriginally built by a dad on parental leave (still with us btw!) for him and his not-so-sleepy baby girl, Napper has ",
+    "category": "New Parents",
+    "tags": [
+      "baby sleep log",
+      "iOS"
+    ],
+    "url": "https://apps.apple.com/us/app/napper-baby-sleep-tracker/id1491340863?uo=4",
+    "icon": "👶",
+    "rating": 4.88123,
+    "reviews": 3612,
+    "developer": "Napper AB"
   }
 ]
